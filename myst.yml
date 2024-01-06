@@ -1,0 +1,47 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Hebrew Kings
+  subtitle: From the Destruction of the First Temple Back to Adam
+  description:  An axiomatic description of the Thiele-McFall-Young chronology for the Hebrew kings and an extension back to Adam.
+  keywords: [chronology, bible, kings]
+  authors: [Frank Hubeny]
+  # github:
+  bibliography: [HebrewKings.bib]
+site:
+  template: book-theme
+  title:  Hebrew Kings Site
+  # options:
+  #   logo: site_logo.png
+  nav: []
+  #actions:
+  #  - title: Learn More
+  #    url: https://mystmd.org/guide
+  domains: []
+# Parse and render settings
+#parse:
+  #myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    # - amsmath
+    #- colon_fence
+    # - deflist
+    #- dollarmath
+    #- html_admonition
+    # - html_image
+    #- linkify
+    #- replacements
+    #- smartquotes
+    #- substitution
+    #- tasklist
+# Abbreviations
+abbreviations:
+  ABR: Associates for Biblical Research
+  CMI: Creation Ministries International
+  
+# Miscellaneous configuration
+math:
+  # Note the 'single quotes'
+  '\dobs': '\mathbf{d}_\text{obs}'
+exports:
+  - format: pdf
+    template: arxiv_two_column
+    output: exports/HebrewKings.pdf
