@@ -5,6 +5,7 @@ format: jb-book
 root: Introduction_to_Hebrew_Kings
 chapters:
 - file: Biblical_Inerrancy
+- file: Chicago_Statements
 - file: HebrewKings
 - file: Kings
 
