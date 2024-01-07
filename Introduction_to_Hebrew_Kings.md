@@ -1,6 +1,6 @@
 
 (intro)=
-# Introduction to Hebrew Kings and Biblical Chronology
+# Introduction to Biblical Chronology
 
 There are three parts to this book.
 
