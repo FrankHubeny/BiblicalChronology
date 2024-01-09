@@ -85,7 +85,7 @@ Assume there exists a point in the Biblical chronology where the Bible contradic
 Assume the Biblical chronology cannot be found.  This implies that the Bible has not been faithfully transmitted.  This also contradicts [](#bible-inerrant-faithful).
 
 Hence a consistent biblical chronology exists and can be found.  
-The [Thiele-McFall-Young](thiele-mcfall-young) chronology of Kings is evidence that 
+The [Thiele-McFall-Young](#thiele-mcfall-young) chronology of Kings is evidence that 
 at least one consistent biblical chronology exists.
 
 :::
@@ -111,7 +111,7 @@ If this proof is correct, then alternate chronologies of the Hebrew Kings are in
 One of the goals of this study is to automate a way to identifying where the error lies.
 
 :::{prf:conjecture} Uniqueness of the pre-Kings chronology
-:label: only-one-chronology
+:label: only-one-pre-chronology
 There is only one consistent biblical chronology of the the biblical events prior to Kings
 :::
 

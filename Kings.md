@@ -1,3 +1,5 @@
+
+
 # Kings 
 
 The English text of the King James Version translated from the {abbr}`MT(Masoretic Hebrew Text)` comes from [BibleGateway](https://www.biblegateway.com/passage/?search=1+Kings+1+-+2+Kings+25&version=KJV)
@@ -969,6 +971,34 @@ External synchronism with ANE.
 
 ```
 
+```{note} Jeroboam
+
+Testing this abbreviation CMI.  CMI
+
+>1 Kings 14:20 (KJV)
+>And the days which Jeroboam reigned were `two and twenty years`: and he slept with his fathers, 
+>and Nadab his son reigned in his stead.
+
+The "two and twenty years" are {term}`accession` years. 
+
+::::{tab-set}
+:::{tab-item} Masoretic Hebrew
+:sync: tab1
+<div dir="rtl">
+וְהַיָּמִים֙ אֲשֶׁ֣ר מָלַ֣ךְ יָרָבְעָ֔ם עֶשְׂרִ֥ים וּשְׁתַּ֖יִם שָׁנָ֑ה וַיִּשְׁכַּב֙ עִם־אֲבֹתָ֔יו וַיִּמְלֹ֛ךְ נָדָ֥ב בְּנ֖וֹ תַּחְתָּֽיו׃ פ
+</div>
+:::
+:::{tab-item} Septuagint Greek
+:sync: tab2
+καὶ ἀνέβη Σαοὺλ καὶ πᾶς ὁ λαὸς ὁ μετ᾿ αὐτοῦ καὶ ἔρχονται ἕως τοῦ πολέμου, καὶ ἰδοὺ ἐγένετο ρομφαία ἀνδρὸς ἐπὶ τὸν πλησίον αὐτοῦ, σύγχυσις μεγάλη σφόδρα.
+:::
+:::{tab-item} Synchronism
+:sync: tab3
+Unknown
+:::
+::::
+
+
 :::{note} 1 Kings 12:1 - 14:20
 :class: dropdown
 **1 Kings 12**
@@ -1153,9 +1183,68 @@ External synchronism with ANE.
 
 22 And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
 :::
+```
+
+```{note} Rehoboam
+:class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+
+[1 Kings 14:21](https://www.biblegateway.com/passage/?search=1+Kings+14%3A21&version=KJV)
+>And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
+
+
+[Masoretic Text](https://www.tanach.us/Server.html?1%20Kings14:21-14:21&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
+<div dir="rtl">
+וּרְחַבְעָם֙ בֶּן־שְׁלֹמֹ֔ה מָלַ֖ךְ בִּֽיהוּדָ֑ה בֶּן־אַרְבָּעִ֣ים וְאַחַ֣ת שָׁנָה֩ רְחַבְעָ֨ם בְּמָלְכ֜וֹ וּֽשֲׁבַ֨ע עֶשְׂרֵ֥ה שָׁנָ֣ה ׀ מָלַ֣ךְ בִּירוּשָׁלִַ֗ם הָ֠עִיר אֲשֶׁר־בָּחַ֨ר יְהוָ֜ה לָשׂ֨וּם אֶת־שְׁמ֥וֹ שָׁם֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָעַמֹּנִֽית׃
+</div>
+
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-14)
+
+καὶ οἱ δοῦλοι οἱ ὄντες ἐχθὲς καὶ τρίτην ἡμέραν μετὰ τῶν ἀλλοφύλων οἱ ἀναβάντες εἰς τὴν παρεμβολὴν ἐπεστράφησαν καὶ αὐτοὶ εἶναι μετὰ ᾿Ισραὴλ τῶν μετὰ Σαοὺλ καὶ ᾿Ιωνάθαν.
+
+**Biblical Synchronism** [2 Chronicles 12:13](https://www.biblegateway.com/passage/?search=2+Chronicles+12%3A13&version=KJV)
+>So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
+
+[Masoretic Text](https://www.tanach.us/Server.html?2%20Chr12:13-12:13&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
+<div dir="rtl">
+וַיִּתְחַזֵּ֞ק הַמֶּ֧לֶךְ רְחַבְעָ֛ם בִּירוּשָׁלַ֖͏ִם וַיִּמְלֹ֑ךְ כִּ֣י בֶן־אַרְבָּעִ֣ים וְאַחַ֣ת שָׁנָה֩ רְחַבְעָ֨ם בְּמָלְכ֜וֹ וּֽשֲׁבַ֨ע עֶשְׂרֵ֥ה שָׁנָ֣ה ׀ מָלַ֣ךְ בִּֽירוּשָׁלִַ֗ם הָ֠עִיר אֲשֶׁר־בָּחַ֨ר יְהוָ֜ה לָשׂ֨וּם אֶת־שְׁמ֥וֹ שָׁם֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָֽעַמֹּנִֽית׃
+</div>
+
+[Septuagint](https://www.septuagint.bible/-/paraleipomenon-b-kephalaio-12)
+[Translate](https://translate.google.com/?sl=auto&tl=en&text=%CE%9A%CE%B1%E1%BD%B6%20%CE%BA%CE%B1%CF%84%CE%AF%CF%83%CF%87%CF%85%CF%83%CE%B5%CE%BD%20%E1%BD%81%20%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%E1%BD%BA%CF%82%20%CE%A1%CE%BF%CE%B2%CE%BF%E1%BD%B0%CE%BC%20%E1%BC%90%CE%BD%20%E1%BF%BE%CE%99%CE%B5%CF%81%CE%BF%CF%85%CF%83%CE%B1%CE%BB%E1%BD%B4%CE%BC%20%CE%BA%CE%B1%E1%BD%B6%20%E1%BC%90%CE%B2%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CF%85%CF%83%CE%B5.%20%CE%BA%CE%B1%E1%BD%B6%20%CF%84%CE%B5%CF%83%CF%83%CE%B1%CF%81%CE%AC%CE%BA%CE%BF%CE%BD%CF%84%CE%B1%20%CE%BA%CE%B1%E1%BD%B6%20%E1%BC%91%CE%BD%E1%BD%B8%CF%82%20%E1%BC%90%CF%84%E1%BF%B6%CE%BD%20%CE%A1%CE%BF%CE%B2%CE%BF%E1%BD%B0%CE%BC%20%E1%BC%90%CE%BD%20%CF%84%E1%BF%B7%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%E1%BF%A6%CF%83%CE%B1%CE%B9%20%CE%B1%E1%BD%90%CF%84%E1%BD%B8%CE%BD%20%CE%BA%CE%B1%E1%BD%B6%20%E1%BC%91%CF%80%CF%84%CE%B1%CE%BA%CE%B1%CE%AF%CE%B4%CE%B5%CE%BA%CE%B1%20%E1%BC%94%CF%84%CE%B7%20%E1%BC%90%CE%B2%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CF%85%CF%83%CE%B5%CE%BD%20%E1%BC%90%CE%BD%20%E1%BF%BE%CE%99%CE%B5%CF%81%CE%BF%CF%85%CF%83%CE%B1%CE%BB%CE%AE%CE%BC%2C%20%E1%BC%90%CE%BD%20%CF%84%E1%BF%87%20%CF%80%CF%8C%CE%BB%CE%B5%CE%B9%2C%20%E1%BE%97%20%E1%BC%90%CE%BE%CE%B5%CE%BB%CE%AD%CE%BE%CE%B1%CF%84%CE%BF%20%CE%9A%CF%8D%CF%81%CE%B9%CE%BF%CF%82%20%E1%BC%90%CF%80%CE%BF%CE%BD%CE%BF%CE%BC%CE%AC%CF%83%CE%B1%CE%B9%20%CF%84%CF%8C%20%E1%BD%84%CE%BD%CE%BF%CE%BC%CE%B1%20%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%A6%20%E1%BC%90%CE%BA%CE%B5%E1%BF%96%20%E1%BC%90%CE%BA%20%CF%80%CE%B1%CF%83%E1%BF%B6%CE%BD%20%CF%86%CF%85%CE%BB%E1%BF%B6%CE%BD%20%CF%85%E1%BC%B1%E1%BF%B6%CE%BD%20%E1%BE%BF%CE%99%CF%83%CF%81%CE%B1%CE%AE%CE%BB%C2%B7%20%CE%BA%CE%B1%E1%BD%B6%20%CF%84%E1%BD%B8%20%E1%BD%84%CE%BD%CE%BF%CE%BC%CE%B1%20%CF%84%E1%BF%86%CF%82%20%CE%BC%CE%B7%CF%84%CF%81%E1%BD%B8%CF%82%20%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%A6%20%CE%9D%CE%BF%CE%BF%CE%BC%CE%BC%E1%BD%B0%20%E1%BC%A1%20%E1%BE%BF%CE%91%CE%BC%CE%B1%CE%BD%E1%BF%96%CF%84%CE%B9%CF%82.&op=translate)
+
+
+Καὶ κατίσχυσεν ὁ βασιλεὺς Ροβοὰμ ἐν ῾Ιερουσαλὴμ καὶ ἐβασίλευσε. καὶ τεσσαράκοντα καὶ ἑνὸς ἐτῶν Ροβοὰμ ἐν τῷβασιλεῦσαι αὐτὸν καὶ ἑπτακαίδεκα ἔτη ἐβασίλευσεν ἐν ῾Ιερουσαλήμ, ἐν τῇ πόλει, ᾗ ἐξελέξατο Κύριος ἐπονομάσαι τό ὄνομα αὐτοῦ ἐκεῖ ἐκ πασῶν φυλῶν υἱῶν ᾿Ισραήλ· καὶ τὸ ὄνομα τῆς μητρὸς αὐτοῦ Νοομμὰ ἡ ᾿Αμανῖτις.
+:::
+
+::::{note} Data
+:class: dropdown
+:::{table} Biblical Events in Years
+:label: rehoboam-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: rehoboam-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
 
 :::{note} 1 Kings 14:20-31
 :class: dropdown
+20 And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
+
+21 And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
+
+22 And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
+
 23 For they also built them high places, and images, and groves, on every high hill, and under every green tree.
 
 24 And there were also sodomites in the land: and they did according to all the abominations of the nations which the Lord cast out before the children of Israel.
@@ -1174,6 +1263,7 @@ External synchronism with ANE.
 
 31 And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead.
 :::
+```
 
 :::{note} 1 Kings 15:1-8
 :class: dropdown

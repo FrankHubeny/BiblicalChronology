@@ -50,12 +50,12 @@ numbering:
   heading_3: true
 
 only_build_toc_files: true
-
 sphinx:
   extra_extensions:
     - sphinx_exercise
     - sphinx_proof
     - sphinx_inline_tabs
+    - sphinx-tippy
     
 # Parse and render settings
 parse:

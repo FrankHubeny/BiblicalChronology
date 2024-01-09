@@ -3,21 +3,34 @@ version: 1
 project:
   title: Hebrew Kings
   subtitle: From the Destruction of the First Temple Back to Adam
+  short_title: null
   description:  An axiomatic description of the Thiele-McFall-Young chronology for the Hebrew kings and an extension back to Adam.
   keywords: [chronology, bible, kings]
+  thumbnail: null
   authors: [Frank Hubeny]
-  # github:
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/FrankHubeny/BiblicalChronology.git
+  abbreviations:
+    ABR: Associates for Biblical Research
+    CMI: Creation Ministries International
+    MT: Masoretic Hebrew Text
+    LXX: Septuagint
+    ANE: Ancient Near East
   bibliography: [HebrewKings.bib]
+  math:
+    # Note the 'single quotes'
+    #'\dobs': '\mathbf{d}_\text{obs}'
 site:
   template: book-theme
-  title:  Hebrew Kings Site
+  title:  Biblical Chronology
   # options:
   #   logo: site_logo.png
-  nav: []
+  #nav: []
   #actions:
   #  - title: Learn More
   #    url: https://mystmd.org/guide
-  domains: []
+  #domains: []
 # Parse and render settings
 #parse:
   #myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
@@ -32,16 +45,8 @@ site:
     #- smartquotes
     #- substitution
     #- tasklist
-# Abbreviations
-abbreviations:
-  ABR: Associates for Biblical Research
-  CMI: Creation Ministries International
-  
 # Miscellaneous configuration
-math:
-  # Note the 'single quotes'
-  '\dobs': '\mathbf{d}_\text{obs}'
-exports:
-  - format: pdf
-    template: arxiv_two_column
-    output: exports/HebrewKings.pdf
+#exports:
+#  - format: pdf
+#    template: arxiv_two_column
+#    output: exports/HebrewKings.pdf
