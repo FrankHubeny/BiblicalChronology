@@ -26,6 +26,7 @@ The places where annotations are made are listed in {cite}`mcfall_translation_19
 ### April 971 - April 970 BC
 
 ```{note} David King from 1010 BC
+:class: dropdown
 
 :::{note} 1 Kings 1:1 - 2:11
 :class: dropdown
@@ -186,6 +187,8 @@ External synchronism with ANE.
 ```
 
 ```{note} Solomon
+:class: dropdown
+
 :::{note} 1 Kings 11:1 - 11:43
 :class: dropdown
 
@@ -972,8 +975,7 @@ External synchronism with ANE.
 ```
 
 ```{note} Jeroboam
-
-Testing this abbreviation CMI.  CMI
+:class: dropdown
 
 >1 Kings 14:20 (KJV)
 >And the days which Jeroboam reigned were `two and twenty years`: and he slept with his fathers, 
@@ -1265,6 +1267,9 @@ Unknown
 :::
 ```
 
+```{note} Abijam (Judah)
+:class: dropdown
+
 :::{note} 1 Kings 15:1-8
 :class: dropdown
 **1 Kings 15**
@@ -1285,6 +1290,10 @@ Unknown
 
 8 And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 :::
+```
+
+```{note} Asa (Judah)
+:class: dropdown
 
 :::{note} 1 Kings 15:9-24
 :class: dropdown
@@ -1321,6 +1330,10 @@ Unknown
 
 24 And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
 :::
+```
+
+```{note} Nadab (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 15:25-32
 :class: dropdown
@@ -1341,6 +1354,10 @@ Unknown
 
 32 And there was war between Asa and Baasha king of Israel all their days.
 :::
+```
+
+```{note} Baasha (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 15:33 - 16:7
 :class: dropdown
@@ -1365,6 +1382,10 @@ Unknown
 
 7 And also by the hand of the prophet Jehu the son of Hanani came the word of the Lord against Baasha, and against his house, even for all the evil that he did in the sight of the Lord, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him.
 :::
+```
+
+```{note} Elah (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 16:8-14
 :class: dropdown
@@ -1382,6 +1403,10 @@ Unknown
 
 14 Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 :::
+```
+
+```{note} Zimri (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 16:15-20
 :class: dropdown
@@ -1397,6 +1422,10 @@ Unknown
 
 20 Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?
 :::
+```
+
+```{note} Tibni vs Omri (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 16:21-22
 :class: dropdown
@@ -1404,6 +1433,10 @@ Unknown
 
 22 But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.
 :::
+```
+
+```{note} Omri (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 16:23-28
 :class: dropdown
@@ -1419,6 +1452,10 @@ Unknown
 
 28 So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.
 :::
+```
+
+```{note} Ahab (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 16:29 - 22:40
 :class: dropdown
@@ -1852,6 +1889,10 @@ Unknown
 
 40 So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.
 :::
+```
+
+```{note} Jehoshaphat (Judah)
+:class: dropdown
 
 :::{note} 1 Kings 22:41-51
 :class: dropdown
@@ -1877,9 +1918,15 @@ Unknown
 
 51 Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
 :::
+```
+
+```{note} Ahaziah (Israel)
+:class: dropdown
 
 :::{note} 1 Kings 22:52 - 2 Kings 2:25
 :class: dropdown
+51 Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
+
 52 And he did evil in the sight of the Lord, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 
 53 For he served Baal, and worshipped him, and provoked to anger the Lord God of Israel, according to all that his father had done.
@@ -1974,6 +2021,10 @@ Unknown
 
 25 And he went from thence to mount Carmel, and from thence he returned to Samaria.
 :::
+```
+
+```{note} Jehoram (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 3:1 - 8:15
 :class: dropdown
@@ -2321,10 +2372,14 @@ Unknown
 
 15 And it came to pass on the morrow, that he took a thick cloth, and dipped it in water, and spread it on his face, so that he died: and Hazael reigned in his stead.
 :::
+```
+
+```{note} Jehoram (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 8:16-24
 :class: dropdown
-16 And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Je hoshaphat king of Judah began to reign.
+16 And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign.
 
 17 Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem.
 
@@ -2342,6 +2397,10 @@ Unknown
 
 24 And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead.
 :::
+```
+
+```{note} Ahaziah son of Jehoram (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 8:25 - 9:29
 :class: dropdown
@@ -2415,6 +2474,10 @@ Unknown
 
 29 And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah.
 :::
+```
+
+```{note} Jehu (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 9:30 - 10:36
 :class: dropdown
@@ -2508,6 +2571,10 @@ Unknown
 
 36 And the time that Jehu reigned over Israel in Samaria was twenty and eight years.
 :::
+```
+
+```{note} Athaliah (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 11:1-21
 :class: dropdown
@@ -2555,6 +2622,10 @@ Unknown
 
 21 Seven years old was Jehoash when he began to reign.
 :::
+```
+
+```{note} Jehoash (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 12:1-21
 :class: dropdown
@@ -2602,6 +2673,10 @@ Unknown
 
 21 For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
 :::
+```
+
+```{note} Jehoahaz (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 13:1-10
 :class: dropdown
@@ -2627,9 +2702,15 @@ Unknown
 
 10 In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, and reigned sixteen years.
 :::
+```
+
+```{note} Jehoash (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 13:11-25
 :class: dropdown
+10 In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, and reigned sixteen years.
+
 11 And he did that which was evil in the sight of the Lord; he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: but he walked therein.
 
 12 And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?
@@ -2660,6 +2741,10 @@ Unknown
 
 25 And Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel.
 :::
+```
+
+```{note} Amaziah (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 14:1-22
 :class: dropdown
@@ -2709,6 +2794,10 @@ Unknown
 
 22 He built Elath, and restored it to Judah, after that the king slept with his fathers.
 :::
+```
+
+```{note} Jeroboam II (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 14:23-29
 :class: dropdown
@@ -2726,6 +2815,10 @@ Unknown
 
 29 And Jeroboam slept with his fathers, even with the kings of Israel; and Zachariah his son reigned in his stead.
 :::
+```
+
+```{note} Azariah (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 15:1-7
 :class: dropdown
@@ -2745,6 +2838,10 @@ Unknown
 
 7 So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.
 :::
+```
+
+```{note} Zachariah (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 15:8-12
 :class: dropdown
@@ -2758,6 +2855,10 @@ Unknown
 
 12 This was the word of the Lord which he spake unto Jehu, saying, Thy sons shall sit on the throne of Israel unto the fourth generation. And so it came to pass.
 :::
+```
+
+```{note} Shallum (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 15:13-15
 :class: dropdown
@@ -2767,6 +2868,10 @@ Unknown
 
 15 And the rest of the acts of Shallum, and his conspiracy which he made, behold, they are written in the book of the chronicles of the kings of Israel.
 :::
+```
+
+```{note} Menahem (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 15:16-22
 :class: dropdown
@@ -2784,6 +2889,10 @@ Unknown
 
 22 And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.
 :::
+```
+
+```{note} Pekahiah (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 15:23-26
 :class: dropdown
@@ -2795,6 +2904,10 @@ Unknown
 
 26 And the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.
 :::
+```
+
+```{note} Pekah (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 15:27-31
 :class: dropdown
@@ -2808,6 +2921,10 @@ Unknown
 
 31 And the rest of the acts of Pekah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.
 :::
+```
+
+```{note} Jotham (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 15:32-38
 :class: dropdown
@@ -2825,6 +2942,10 @@ Unknown
 
 38 And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.
 :::
+```
+
+```{note} Ahaz (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 16:1-20
 :class: dropdown
@@ -2870,6 +2991,10 @@ Unknown
 
 20 And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.
 :::
+```
+
+```{note} Hoshea (Israel)
+:class: dropdown
 
 :::{note} 2 Kings 17:1-41
 :class: dropdown
@@ -2957,6 +3082,10 @@ Unknown
 
 41 So these nations feared the Lord, and served their graven images, both their children, and their children's children: as did their fathers, so do they unto this day.
 :::
+```
+
+```{note} Hezekiah (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 18:1 - 20:21
 :class: dropdown
@@ -3156,6 +3285,10 @@ Unknown
 
 21 And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.
 :::
+```
+
+```{note} Manasseh (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 21:1-18
 :class: dropdown
@@ -3197,6 +3330,10 @@ Unknown
 
 18 And Manasseh slept with his fathers, and was buried in the garden of his own house, in the garden of Uzza: and Amon his son reigned in his stead.
 :::
+```
+
+```{note} Amon (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 21:19-26
 :class: dropdown
@@ -3216,6 +3353,10 @@ Unknown
 
 26 And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead.
 :::
+```
+
+```{note} Josiah (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 22:1 - 23:30
 :class: dropdown
@@ -3323,6 +3464,10 @@ Unknown
 
 30 And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father's stead.
 :::
+```
+
+```{note} Jehoahaz (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 23:30-36
 :class: dropdown
@@ -3338,9 +3483,15 @@ Unknown
 
 36 Jehoiakim was twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.
 :::
+```
+
+```{note} Jehoiakim (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 23:36 - 24:7
 :class: dropdown
+36 Jehoiakim was twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.
+
 37 And he did that which was evil in the sight of the Lord, according to all that his fathers had done.
 
 **2 Kings 24**
@@ -3359,6 +3510,10 @@ Unknown
 
 7 And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.
 :::
+```
+
+```{note} Jehoiachin (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 24:8-17
 :class: dropdown
@@ -3382,6 +3537,10 @@ Unknown
 
 17 And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.
 :::
+```
+
+```{note} Zedekiah (Judah)
+:class: dropdown
 
 :::{note} 2 Kings 24:18 - 25:7
 :class: dropdown
@@ -3407,6 +3566,10 @@ Unknown
 
 7 And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.
 :::
+```
+
+```{note} Nebuchadnezzar Destroys Temple
+:class: dropdown
 
 :::{note} 2 Kings 25:8-30
 :class: dropdown
@@ -3456,4 +3619,4 @@ Unknown
 
 30 And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
 :::
-
+```
