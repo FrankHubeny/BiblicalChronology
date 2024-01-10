@@ -28,6 +28,17 @@ The places where annotations are made are listed in {cite}`mcfall_translation_19
 ```{note} David King from 1010 BC
 :class: dropdown
 
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+Texts
+:::
+
+::::{note} Data
+:class: dropdown
+
+::::
+
 :::{note} 1 Kings 1:1 - 2:11
 :class: dropdown
 
@@ -163,31 +174,21 @@ The places where annotations are made are listed in {cite}`mcfall_translation_19
 
 11 And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
 :::
-
-::::{tab-set}
-:::{tab-item} Masoretic Hebrew
-:sync: tab1
-<div dir="rtl">
-  וְהַמֶּ֤לֶךְ דָּוִד֙ זָקֵ֔ן בָּ֖א בַּיָּמִ֑ים וַיְכַסֻּ֙הוּ֙ בַּבְּגָדִ֔ים וְלֹ֥א יִחַ֖ם לֽוֹ׃
-</div>
-:::
-:::{tab-item} Septuagint Greek
-:sync: tab2
-ANE synchronism
-:::
-:::{tab-item} Synchronism
-:sync: tab2
-Internal synchronism with 1 Chronicles.
-
-External synchronism with ANE.
-:::
-::::
-[Solomon's Enemies](https://biblemapper.com/blog/index.php/2023/11/13/solomons-enemies/) {cite}`barrett_solomons_2023` 
-
 ```
 
 ```{note} Solomon
 :class: dropdown
+
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+Texts
+:::
+
+::::{note} Data
+:class: dropdown
+
+::::
 
 :::{note} 1 Kings 11:1 - 11:43
 :class: dropdown
@@ -951,55 +952,24 @@ External synchronism with ANE.
 43 And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.
 
 :::
-
-::::{tab-set}
-:::{tab-item} Masoretic Hebrew
-:sync: tab1
-<div dir="rtl">
-  וְהַמֶּ֤לֶךְ דָּוִד֙ זָקֵ֔ן בָּ֖א בַּיָּמִ֑ים וַיְכַסֻּ֙הוּ֙ בַּבְּגָדִ֔ים וְלֹ֥א יִחַ֖ם לֽוֹ׃
-</div>
-:::
-:::{tab-item} Septuagint Greek
-:sync: tab2
-ANE synchronism
-:::
-:::{tab-item} Synchronism
-:sync: tab2
-Internal synchronism with 1 Chronicles.
-
-External synchronism with ANE.
-:::
-::::
-[Solomon's Enemies](https://biblemapper.com/blog/index.php/2023/11/13/solomons-enemies/) {cite}`barrett_solomons_2023` 
-
 ```
 
-```{note} Jeroboam
+```{note} Jeroboam (1 Kings 14:20) Israel
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
 >1 Kings 14:20 (KJV)
 >And the days which Jeroboam reigned were `two and twenty years`: and he slept with his fathers, 
 >and Nadab his son reigned in his stead.
 
-The "two and twenty years" are {term}`accession` years. 
 
-::::{tab-set}
-:::{tab-item} Masoretic Hebrew
-:sync: tab1
-<div dir="rtl">
-וְהַיָּמִים֙ אֲשֶׁ֣ר מָלַ֣ךְ יָרָבְעָ֔ם עֶשְׂרִ֥ים וּשְׁתַּ֖יִם שָׁנָ֑ה וַיִּשְׁכַּב֙ עִם־אֲבֹתָ֔יו וַיִּמְלֹ֛ךְ נָדָ֥ב בְּנ֖וֹ תַּחְתָּֽיו׃ פ
-</div>
 :::
-:::{tab-item} Septuagint Greek
-:sync: tab2
-καὶ ἀνέβη Σαοὺλ καὶ πᾶς ὁ λαὸς ὁ μετ᾿ αὐτοῦ καὶ ἔρχονται ἕως τοῦ πολέμου, καὶ ἰδοὺ ἐγένετο ρομφαία ἀνδρὸς ἐπὶ τὸν πλησίον αὐτοῦ, σύγχυσις μεγάλη σφόδρα.
-:::
-:::{tab-item} Synchronism
-:sync: tab3
-Unknown
-:::
+
+::::{note} Data
+:class: dropdown
+
 ::::
-
 
 :::{note} 1 Kings 12:1 - 14:20
 :class: dropdown
@@ -1180,14 +1150,10 @@ Unknown
 19 And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
 
 20 And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
-
-21 And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
-
-22 And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
 :::
 ```
 
-```{note} Rehoboam
+```{note} Rehoboam (1 Kings 14:21, 2 Chronicles 12:13) Judah
 :class: dropdown
 
 :::{note} Texts with Chronology Data
@@ -1223,6 +1189,8 @@ Unknown
 
 ::::{note} Data
 :class: dropdown
+
+**Check Data**
 :::{table} Biblical Events in Years
 :label: rehoboam-event-table
 |Biblical Event|Years|Accession|
@@ -1239,10 +1207,8 @@ Unknown
 :::
 ::::
 
-:::{note} 1 Kings 14:20-31
+:::{note} 1 Kings 14:21-34
 :class: dropdown
-20 And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
-
 21 And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
 
 22 And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
@@ -1250,7 +1216,56 @@ Unknown
 23 For they also built them high places, and images, and groves, on every high hill, and under every green tree.
 
 24 And there were also sodomites in the land: and they did according to all the abominations of the nations which the Lord cast out before the children of Israel.
+:::
+```
 
+```{note} Rehoboam - Shishak (1 Kings 14:25) Judah
+:class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: rehoboam-shishak-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: rehoboam-shishak-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
+
+:::{note} 1 Kings 15:25-31
+:class: dropdown
 25 And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
 
 26 And he took away the treasures of the house of the Lord, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made.
@@ -1269,6 +1284,48 @@ Unknown
 
 ```{note} Abijam (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: abijam-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: abijam-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
 
 :::{note} 1 Kings 15:1-8
 :class: dropdown
@@ -1294,6 +1351,48 @@ Unknown
 
 ```{note} Asa (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: asa-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: asa-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
 
 :::{note} 1 Kings 15:9-24
 :class: dropdown
@@ -1335,6 +1434,48 @@ Unknown
 ```{note} Nadab (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: nadab-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: nadab-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
+
 :::{note} 1 Kings 15:25-32
 :class: dropdown
 
@@ -1358,6 +1499,48 @@ Unknown
 
 ```{note} Baasha (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: baasha-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: baasha-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
 
 :::{note} 1 Kings 15:33 - 16:7
 :class: dropdown
@@ -1387,6 +1570,48 @@ Unknown
 ```{note} Elah (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: elah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: elah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
+
 :::{note} 1 Kings 16:8-14
 :class: dropdown
 8 In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.
@@ -1408,6 +1633,48 @@ Unknown
 ```{note} Zimri (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: zimri-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: zimri-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
+
 :::{note} 1 Kings 16:15-20
 :class: dropdown
 15 In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines.
@@ -1427,6 +1694,48 @@ Unknown
 ```{note} Tibni vs Omri (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: tibni-omri-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: tibni-omri-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
+
 :::{note} 1 Kings 16:21-22
 :class: dropdown
 21 Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.
@@ -1437,6 +1746,48 @@ Unknown
 
 ```{note} Omri (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: omri-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: omri-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+:::
+::::
 
 :::{note} 1 Kings 16:23-28
 :class: dropdown
@@ -1456,6 +1807,48 @@ Unknown
 
 ```{note} Ahab (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+:::
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: ahab-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: ahab-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 1 Kings 16:29 - 22:40
 :class: dropdown
@@ -1894,6 +2287,47 @@ Unknown
 ```{note} Jehoshaphat (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoshaphat-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoshaphat-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 1 Kings 22:41-51
 :class: dropdown
 41 And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.
@@ -1922,6 +2356,47 @@ Unknown
 
 ```{note} Ahaziah (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: ahaziah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: ahaziah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 1 Kings 22:52 - 2 Kings 2:25
 :class: dropdown
@@ -2025,6 +2500,47 @@ Unknown
 
 ```{note} Jehoram (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoram-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoram-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 3:1 - 8:15
 :class: dropdown
@@ -2377,6 +2893,47 @@ Unknown
 ```{note} Jehoram (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoram-judah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoram-judah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 8:16-24
 :class: dropdown
 16 And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign.
@@ -2401,6 +2958,47 @@ Unknown
 
 ```{note} Ahaziah son of Jehoram (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: ahaziah-jehoram-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: ahaziah-jehoram-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 8:25 - 9:29
 :class: dropdown
@@ -2478,6 +3076,47 @@ Unknown
 
 ```{note} Jehu (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehu-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehu-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 9:30 - 10:36
 :class: dropdown
@@ -2576,6 +3215,47 @@ Unknown
 ```{note} Athaliah (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: athaliah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: athaliah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 11:1-21
 :class: dropdown
 **2 Kings 11**
@@ -2626,6 +3306,47 @@ Unknown
 
 ```{note} Jehoash (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoash-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoash-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 12:1-21
 :class: dropdown
@@ -2678,6 +3399,47 @@ Unknown
 ```{note} Jehoahaz (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoahaz-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehohaz-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 13:1-10
 :class: dropdown
 **2 Kings 13**
@@ -2706,6 +3468,47 @@ Unknown
 
 ```{note} Jehoash (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoash-israel-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoash-israel-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 13:11-25
 :class: dropdown
@@ -2745,6 +3548,47 @@ Unknown
 
 ```{note} Amaziah (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: amaziah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: amaziah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 14:1-22
 :class: dropdown
@@ -2799,6 +3643,47 @@ Unknown
 ```{note} Jeroboam II (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jeroboamII-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jeroboamII-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 14:23-29
 :class: dropdown
 23 In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned forty and one years.
@@ -2819,6 +3704,47 @@ Unknown
 
 ```{note} Azariah (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: azariah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: azariah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 15:1-7
 :class: dropdown
@@ -2843,6 +3769,47 @@ Unknown
 ```{note} Zachariah (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: zachariah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: zachariah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 15:8-12
 :class: dropdown
 8 In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
@@ -2860,6 +3827,47 @@ Unknown
 ```{note} Shallum (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: shallum-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: shallum-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 15:13-15
 :class: dropdown
 13 Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.
@@ -2872,6 +3880,47 @@ Unknown
 
 ```{note} Menahem (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: menachem-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: menachem-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 15:16-22
 :class: dropdown
@@ -2894,6 +3943,47 @@ Unknown
 ```{note} Pekahiah (Israel)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: pekahiah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: pekahiah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 15:23-26
 :class: dropdown
 23 In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.
@@ -2908,6 +3998,47 @@ Unknown
 
 ```{note} Pekah (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: pekah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: pekah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 15:27-31
 :class: dropdown
@@ -2925,6 +4056,47 @@ Unknown
 
 ```{note} Jotham (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jotham-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jotham-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 15:32-38
 :class: dropdown
@@ -2946,6 +4118,47 @@ Unknown
 
 ```{note} Ahaz (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: ahaz-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: ahaz-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 16:1-20
 :class: dropdown
@@ -2995,6 +4208,47 @@ Unknown
 
 ```{note} Hoshea (Israel)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: hoshea-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: hoshea-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 17:1-41
 :class: dropdown
@@ -3086,6 +4340,47 @@ Unknown
 
 ```{note} Hezekiah (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: hezekiah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: hezekiah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 18:1 - 20:21
 :class: dropdown
@@ -3290,6 +4585,47 @@ Unknown
 ```{note} Manasseh (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: manasseh-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: manasseh-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 21:1-18
 :class: dropdown
 **2 Kings 21**
@@ -3335,6 +4671,47 @@ Unknown
 ```{note} Amon (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: amon-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: amon-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 21:19-26
 :class: dropdown
 19 Amon was twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother's name was Meshullemeth, the daughter of Haruz of Jotbah.
@@ -3357,6 +4734,47 @@ Unknown
 
 ```{note} Josiah (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: josiah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: josiah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 22:1 - 23:30
 :class: dropdown
@@ -3469,6 +4887,47 @@ Unknown
 ```{note} Jehoahaz (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoahaz-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoahaz-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 23:30-36
 :class: dropdown
 31 Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
@@ -3487,6 +4946,47 @@ Unknown
 
 ```{note} Jehoiakim (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoiakim-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoiakim-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 23:36 - 24:7
 :class: dropdown
@@ -3515,6 +5015,47 @@ Unknown
 ```{note} Jehoiachin (Judah)
 :class: dropdown
 
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: jehoiachin-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: jehoiachin-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
+
 :::{note} 2 Kings 24:8-17
 :class: dropdown
 8 Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name was Nehushta, the daughter of Elnathan of Jerusalem.
@@ -3541,6 +5082,47 @@ Unknown
 
 ```{note} Zedekiah (Judah)
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: zedekiah-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: zedekiah-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 24:18 - 25:7
 :class: dropdown
@@ -3570,6 +5152,47 @@ Unknown
 
 ```{note} Nebuchadnezzar Destroys Temple
 :class: dropdown
+
+:::{note} Texts with Chronology Data
+:class: dropdown
+[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
+>And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+**Biblical Synchronism**
+
+[Masoretic Text]()
+<div dir="rtl">
+
+</div>
+
+[Septuagint]()
+
+:::
+
+::::{note} Data
+:class: dropdown
+**Check Data**
+:::{table} Biblical Events in Years
+:label: nebuchadnezzar-event-table
+|Biblical Event|Years|Accession|
+|:----|----:|:---|
+| Reign | 17 | Yes |
+| Accession Age| 41 | |
+:::
+:::{table} Witnesses to Biblical Events
+:label: Nebuchadnezzar-witness-table
+|First Witness|Second Witness|Third Witness|
+|:------------|:-------------|:------------|
+|1 Kings 14:21|2 Chronicles 12:13|none|
+|MT: Yes|LXX: Yes|none|
+::::
 
 :::{note} 2 Kings 25:8-30
 :class: dropdown
