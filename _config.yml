@@ -49,25 +49,26 @@ numbering:
   heading_2: true
   heading_3: true
 
-only_build_toc_files: true
+# only_build_toc_files: true
 sphinx:
   extra_extensions:
     - sphinx_exercise
     - sphinx_proof
     - sphinx_inline_tabs
-    - sphinx-tippy
-    
-# Parse and render settings
-parse:
-  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
-    # - amsmath
+    - sphinx_tippy
+    - myst_parser
+  config:
+    html_show_copyright: false
+    html_extra_path: ['files']
+
+    myst_enable_extensions: 
+    - amsmath
     - colon_fence
-    # - deflist
+    - deflist
     - dollarmath
-    - html_admonition
-    # - html_image
+    - html_image
     - linkify
     - replacements
     - smartquotes
     - substitution
-    - tasklist
+    

@@ -1227,23 +1227,34 @@ Texts
 [1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
 >And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
 
-[Masoretic Text]()
+[Masoretic Text](https://www.tanach.us/Server.html?1%20Kings14:25-14:25&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
 <div dir="rtl">
-
+וַיְהִ֛י בַּשָּׁנָ֥ה הַחֲמִישִׁ֖ית לַמֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שושק שִׁישַׁ֥ק מֶֽלֶךְ־מִצְרַ֖יִם עַל־יְרוּשָׁלָֽ͏ִם׃
 </div>
 
-[Septuagint]()
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-14)
+
+καὶ ᾿Ιάαλ δρυμὸς ἦν μελισσῶνος κατὰ πρόσωπον τοῦ ἀγροῦ,
 
 **Biblical Synchronism**
 
-[Masoretic Text]()
-<div dir="rtl">
+[2 Chronicles 12:2](https://www.biblegateway.com/passage/?search=2+Chronicles+12%3A2&version=KJV)
+>And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the Lord,
 
+[Masoretic Text](https://www.tanach.us/Server.html?2%20Chr12:2-12:2&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
+<div dir="rtl">
+וַיְהִ֞י בַּשָּׁנָ֤ה הַֽחֲמִישִׁית֙ לַמֶּ֣לֶךְ רְחַבְעָ֔ם עָלָ֛ה שִׁישַׁ֥ק מֶֽלֶךְ־מִצְרַ֖יִם עַל־יְרוּשָׁלָ֑͏ִם כִּ֥י מָעֲל֖וּ בַּיהוָֽה׃
 </div>
 
-[Septuagint]()
+[Septuagint](https://www.septuagint.bible/-/paraleipomenon-b-kephalaio-12)
+
+καὶ ἐγένετο ἐν τῷ ἔτει τῷ πέμπτῳ τῆς βασιλείας Ροβοὰμ ἀνέβη Σουσακὶμ βασιλεὺς Αἰγύπτου ἐπὶ ῾Ιερουσαλήμ, ὅτι ἥμαρτον ἐναντίον Κυρίου,
+
+**Ancient Near East Synchronism**
 
 :::
+
+
 
 ::::{note} Data
 :class: dropdown
@@ -1287,25 +1298,38 @@ Texts
 
 :::{note} Texts with Chronology Data
 :class: dropdown
-[1 Kings 14:25](https://www.biblegateway.com/passage/?search=1+Kings+14%3A25&version=KJV)
->And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+[1 Kings 15:1-2](https://www.biblegateway.com/passage/?search=1+Kings+15%3A1-2&version=KJV)
+>1 Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
+>2 Three years reigned he in Jerusalem. and his mother's name was Maachah, the daughter of Abishalom.
 
-[Masoretic Text]()
+[Masoretic Text](https://www.tanach.us/Server.html?1%20Kings15:1-15:2&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
 <div dir="rtl">
-
+וּבִשְׁנַת֙ שְׁמֹנֶ֣ה עֶשְׂרֵ֔ה לַמֶּ֖לֶךְ יָרָבְעָ֣ם בֶּן־נְבָ֑ט מָלַ֥ךְ אֲבִיָּ֖ם עַל־יְהוּדָֽה׃ 2שָׁלֹ֣שׁ שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלָ֑͏ִם וְשֵׁ֣ם אִמּ֔וֹ מַעֲכָ֖ה בַּת־אֲבִישָׁלֽוֹם׃
 </div>
 
-[Septuagint]()
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-15)
+
+ΚΑΙ εἶπε Σαμουὴλ πρὸς Σαούλ· ἐμὲ ἀπέστειλε Κύριος χρῖσαί σε εἰς βασιλέα ἐπὶ ᾿Ισραήλ, καὶ νῦν ἄκουε τῆς φωνῆς Κυρίου· 2 τάδε εἶπε Κύριος Σαβαώθ· νῦν ἐκδικήσω ἃ ἐποίησεν ᾿Αμαλὴκ τῷ ᾿Ισραήλ, ὡς ἀπήντησεν αὐτῷ ἐν τῇ ὁδῷ ἀναβαίνοντος αὐτοῦ ἐξ Αἰγύπτου·
 
 **Biblical Synchronism**
 
-[Masoretic Text]()
-<div dir="rtl">
+[2 Chronicles 13:1-2](https://www.biblegateway.com/passage/?search=2+Chronicles+13%3A1-2&version=KJV)
+>1 Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.
+>2 He reigned three years in Jerusalem. His mother's name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 
+[Masoretic Text](https://www.tanach.us/Server.html?2%20Chr13:1-13:2&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
+<div dir="rtl">
+בבִּשְׁנַ֛ת שְׁמוֹנֶ֥ה עֶשְׂרֵ֖ה לַמֶּ֣לֶךְ יָרָבְעָ֑ם וַיִּמְלֹ֥ךְ אֲבִיָּ֖ה עַל־יְהוּדָֽה׃ 2שָׁל֣וֹשׁ שָׁנִ֗ים מָלַךְ֙ בִּיר֣וּשָׁלִַ֔ם וְשֵׁ֣ם אִמּ֔וֹ מִיכָיָ֥הוּ בַת־אוּרִיאֵ֖ל מִן־גִּבְעָ֑ה וּמִלְחָמָ֥ה הָיְתָ֛ה בֵּ֥ין אֲבִיָּ֖ה וּבֵ֥ין יָרָבְעָֽם׃
 </div>
 
-[Septuagint]()
+[Septuagint](https://www.septuagint.bible/-/paraleipomenon-b-kephalaio-13)
 
+ΕΝ τῷ ὀκτωκαιδεκάτῳ ἔτει τῆς βασιλείας ῾Ιεροβοὰμ ἐβασίλευσεν ᾿Αβιὰ ἐπὶ ᾿Ιούδαν· 2 τρία ἔτη ἐβασίλευσεν ἐν ῾Ιερουσαλήμ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Μααχὰ θυγάτηρ Οὐριὴλ ἀπὸ Γαβαών. καὶ πόλεμος ἦν ἀνὰ μέσον ᾿Αβιὰ καὶ ἀνὰ μέσον ῾Ιεροβοάμ.
+
+and now include
+
+%```{literalinclude} LXX-2Chronicles13-1-2.md
+%```
 :::
 
 ::::{note} Data
@@ -3433,7 +3457,7 @@ Texts
 | Accession Age| 41 | |
 :::
 :::{table} Witnesses to Biblical Events
-:label: jehohaz-witness-table
+:label: jehoahaz-witness-table
 |First Witness|Second Witness|Third Witness|
 |:------------|:-------------|:------------|
 |1 Kings 14:21|2 Chronicles 12:13|none|
@@ -4914,14 +4938,14 @@ Texts
 :class: dropdown
 **Check Data**
 :::{table} Biblical Events in Years
-:label: jehoahaz-event-table
+:label: jehoahaz-judah-event-table
 |Biblical Event|Years|Accession|
 |:----|----:|:---|
 | Reign | 17 | Yes |
 | Accession Age| 41 | |
 :::
 :::{table} Witnesses to Biblical Events
-:label: jehoahaz-witness-table
+:label: jehoahaz-judah-witness-table
 |First Witness|Second Witness|Third Witness|
 |:------------|:-------------|:------------|
 |1 Kings 14:21|2 Chronicles 12:13|none|

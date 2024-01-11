@@ -2,6 +2,8 @@
 (intro)=
 # Introduction to Biblical Chronology
 
+testing 
+
 There are three parts to this book.
 
 First, I will present the biblical chronology for the book of Kings constructed 
@@ -20,6 +22,10 @@ that they will have to deal with.  In particular I will looks as the chronologie
 to show how the process works and how the reader can run the tests himself.  I will then consider
 chronologies that have been recently proposed that differ from those in the list of possible chronologies.
 
-[Biblical Inerrancy]`biblical-inerrancy`
+Testing {term}`accession`
+
+Testing substitutions:
+
+{{snippet}}
 
 [Hebrew Kings](./HebrewKings.ipynb)
