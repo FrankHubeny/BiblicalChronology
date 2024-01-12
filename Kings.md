@@ -21,6 +21,102 @@ Astronomical calculations are performed by SkyField and verified by consulting. 
 
 The places where annotations are made are listed in {cite}`mcfall_translation_1991`.
 
+There are six ANE events to which absolute dates have been assigned. They allow us to assign to the relative
+chronology within the Bible absolute dates.  McFall reports that Thiele worked with and one synchronism that became known later.
+
+1. **853 BC**: The Battle of Qarqar synchronizes with .
+2. **841 BC**: Jehu paid tribute to Shalmaneser III synchronizes with .
+3. **723 BC**: The fall of Israel to Shalmaneser V synchronizes with .
+4. **701 BC**: Sennecherib came against Judah synchronizes with .
+5. **597 BC (March 15/16)**: Nebuchadnezzar captured Jerusalem synchronizes with 
+6. **586 BC (July 18)**: Jerusalem fell to Nebuchadnezzar synchronizes with .
+
+McFall provides numbers for the 68 events in Kings.  To these there are 40 events from Chronicles that synchronize with these events.
+I will use his numbering putting an `M` before the numeral. 
+
+1.  {term}`1 Kings 14:20` 
+
+2.  {term}`1 Kings 14:21`  {term}`2 Chronicles 12:13` 
+
+3.  {term}`1 Kings 14:25`  2 Chronicles 12:2 
+
+4.  {term}`1 Kings 15:1-2a`  2 Chronicles 13:1-2 
+
+
+
+| McFall #|Kings|Chronicles|ANE|
+|:--------|:----|:---------|:--|
+| **1** | {term}`1 Kings 14:20` | | |
+| **2** | {term}`1 Kings 14:21` | {term}`2 Chronicles 12:13` | |
+| **3** | {term}`1 Kings 14:25` | 2 Chronicles 12:2 |  |
+| **4** | {term}`1 Kings 15:1-2a` | 2 Chronicles 13:1-2 | |
+| **5** | {term}`1 Kings 15:9-10` | 2 Chronicles 16:13| |
+| **6** | | | |
+| **7** | | | |
+| **8** | | | |
+| **9** | | | |
+| **10** | | | |
+| **11** | | | |
+| **12** | | | |
+| **13** | | | |
+| **14** | | | |
+| **15** | | | |
+| **16** | | | |
+| **17** | | | |
+| **18** | | | |
+| **19** | | | |
+| **20** | | | |
+| **21** | | | |
+| **22** | | | |
+| **23** | | | |
+| **24** | | | |
+| **25** | | | |
+| **26** | | | |
+| **27** | | | |
+| **28** | | | |
+| **29** | | | |
+| **30** | | | |
+| **31** | | | |
+| **32** | | | |
+| **33** | | | |
+| **34** | | | |
+| **35** | | | |
+| **36** | | | |
+| **37** | | | |
+| **38** | | | |
+| **39** | | | |
+| **40** | | | |
+| **41** | | | |
+| **42** | | | |
+| **43** | | | |
+| **44** | | | |
+| **45** | | | |
+| **46** | | | |
+| **47** | | | |
+| **48** | | | |
+| **49** | | | |
+| **50** | | | |
+| **51** | | | |
+| **52** | | | |
+| **53** | | | |
+| **54** | | | |
+| **55** | | | |
+| **56** | | | |
+| **57** | | | |
+| **58** | | | |
+| **59** | | | |
+| **60** | | | |
+| **61** | | | |
+| **62** | | | |
+| **63** | | | |
+| **64** | | | |
+| **65** | | | |
+| **66** | | | |
+| **67** | | | |
+| **68** | | | |
+
+ 
+
 ## David
 
 ### April 971 - April 970 BC
