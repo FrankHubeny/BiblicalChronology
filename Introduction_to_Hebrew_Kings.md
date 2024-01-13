@@ -39,13 +39,6 @@ influenced some of these natural clocks.  Those who don't accept these events co
 Third, a review of the different chronologies, both consistent and inconsistent, some going back over two thousand years will be considered 
 using the software in this book to check consistency.
 
-Testing {term}`accession`  and {term}`non-accession` and
-
- {term}`MYST`
- 
- {term}`something else`
-
-and {term}`1 Kings 14:21`
 
 Testing substitutions:
 

@@ -48,72 +48,72 @@ I will use his numbering putting an `M` before the numeral.
 |:--------|:----|:---------|:--|
 | **1** | {term}`1 Kings 14:20` | | |
 | **2** | {term}`1 Kings 14:21` | {term}`2 Chronicles 12:13` | |
-| **3** | {term}`1 Kings 14:25` | 2 Chronicles 12:2 |  |
-| **4** | {term}`1 Kings 15:1-2a` | 2 Chronicles 13:1-2 | |
-| **5** | {term}`1 Kings 15:9-10` | 2 Chronicles 16:13| |
-| **6** | | | |
-| **7** | | | |
-| **8** | | | |
-| **9** | | | |
-| **10** | | | |
-| **11** | | | |
-| **12** | | | |
-| **13** | | | |
-| **14** | | | |
-| **15** | | | |
-| **16** | | | |
-| **17** | | | |
-| **18** | | | |
-| **19** | | | |
-| **20** | | | |
-| **21** | | | |
-| **22** | | | |
-| **23** | | | |
-| **24** | | | |
-| **25** | | | |
-| **26** | | | |
-| **27** | | | |
-| **28** | | | |
-| **29** | | | |
-| **30** | | | |
-| **31** | | | |
-| **32** | | | |
-| **33** | | | |
-| **34** | | | |
-| **35** | | | |
-| **36** | | | |
-| **37** | | | |
-| **38** | | | |
-| **39** | | | |
-| **40** | | | |
-| **41** | | | |
-| **42** | | | |
-| **43** | | | |
-| **44** | | | |
-| **45** | | | |
-| **46** | | | |
-| **47** | | | |
-| **48** | | | |
-| **49** | | | |
-| **50** | | | |
-| **51** | | | |
-| **52** | | | |
-| **53** | | | |
-| **54** | | | |
-| **55** | | | |
-| **56** | | | |
-| **57** | | | |
-| **58** | | | |
-| **59** | | | |
-| **60** | | | |
-| **61** | | | |
-| **62** | | | |
-| **63** | | | |
-| **64** | | | |
-| **65** | | | |
-| **66** | | | |
-| **67** | | | |
-| **68** | | | |
+| **3** | {term}`1 Kings 14:25` | {term}`2 Chronicles 12:2` |  |
+| **4** | {term}`1 Kings 15:1-2a` | {term}`2 Chronicles 13:1-2` | |
+| **5** | {term}`1 Kings 15:9-10` | {term}`2 Chronicles 16:13` | |
+| **6** | {term}`1 Kings 15:25` | | |
+| **7** | {term}`1 Kings 15:28` | | |
+| **8** | {term}`1 Kings 15:33` | | |
+| **9** | |{term}`2 Chronicles 15:10`  | |
+| **10** |  | {term}`2 Chronicles 15:19`  | |
+| **11** | | {term}`2 Chronicles 16:1`| |
+| **12** | {term}`1 Kings 16:8` | | |
+| **13** | {term}`1 Kings 16:10` | | |
+| **14** | {term}`1 Kings 16:15` | | |
+| **15** | {term}`1 Kings 16:23` | | |
+| **16** | {term}`1 Kings 16:29` | | |
+| **17** | | {term}`2 Chronicles 16:12` | |
+| **18** | | {term}`2 Chronicles 16:13` | |
+| **19** | {term}`1 Kings 22:41` | {term}`2 Chronicles 20:31` | |
+| **20** | | {term}`2 Chronicles 17:7` | |
+| **21** | {term}`1 Kings 22:51` | | |
+| **22** | {term}`2 Kings 1:17` | | |
+| **23** | {term}`2 Kings 3:1` | | |
+| **24** | {term}`2 Kings 8:16-17` | {term}`2 Chronicles 21:5` | |
+| **25** | {term}`2 Kings 8:25-26` | {term}`2 Chronicles 22:2` | |
+| **26** | {term}`2 Kings 9:29` | | |
+| **27** | | {term}`2 Chronicles 22:2` | |
+| **28** | {term}`2 Kings 10:36` | | |
+| **29** | {term}`2 Kings 11:3` | {term}`2 Chronicles 22:12` | |
+| **30** | {term}`2 Kings 11:4` | {term}`2 Chronicles 23:1` | |
+| **31** | {term}`2 Kings 11:21-12:1` | {term}`2 Chronicles 24:1` | |
+| **32** | {term}`2 Kings 12:6` | | |
+| **33** | {term}`2 Kings 13:1` | | |
+| **34** | | {term}`2 Chronicles 24:15` | |
+| **35** | {term}`2 Kings 13:10` | | |
+| **36** | {term}`2 Kings 14:1-2` | {term}`2 Chronicles 25:1` | |
+| **37** | {term}`2 Kings 14:17` | {term}`2 Chronicles 25:25` | |
+| **38** | {term}`2 Kings 14:21` | {term}`2 Chronicles 26:1` | |
+| **39** | {term}`2 Kings 14:23` | | |
+| **40** | {term}`2 Kings 15:1-2` | {term}`2 Chronicles 26:3` | |
+| **41** | {term}`2 Kings 15:8` | | |
+| **42** | {term}`2 Kings 15:13` | | |
+| **43** | {term}`2 Kings 15:17` | | |
+| **44** | {term}`2 Kings 15:23` | | |
+| **45** | {term}`2 Kings 15:27` | | |
+| **46** | {term}`2 Kings 15:30` | | |
+| **47** | {term}`2 Kings 15:32-33` | {term}`2 Chronicles 27:1` | |
+| **48** | {term}`2 Kings 16:1-2` | {term}`2 Chronicles 28:1` | |
+| **49** | {term}`2 Kings 17:1` | | |
+| **50** | {term}`2 Kings 17:6` | | |
+| **51** | {term}`2 Kings 18:1-2` | {term}`2 Chronicles 29:1` | |
+| **52** | {term}`2 Kings 18:9-10a` | | |
+| **53** | {term}`2 Kings 18:10b` | | |
+| **54** | | {term}`2 Chronicles 29:3` | |
+| **55** | {term}`2 Kings 18:13` | | |
+| **56** | {term}`2 Kings 21:1` | {term}`2 Chronicles 33:1` | |
+| **57** | {term}`2 Kings 21:19` | {term}`2 Chronicles 33:21` | |
+| **58** | {term}`2 Kings 22:1` | {term}`2 Chronicles 34:1` | |
+| **59** | | {term}`2 Chronicles 34:3` | |
+| **60** | {term}`2 Kings 22:3` | {term}`2 Chronicles 34:8` | |
+| **61** | {term}`2 Kings 23:31` | {term}`2 Chronicles 36:2` | |
+| **62** | {term}`2 Kings 23:36` | {term}`2 Chronicles 36:5` | |
+| **63** | | {term}`2 Chronicles 36:9` | |
+| **64** | {term}`2 Kings 24:8` | | |
+| **65** | {term}`2 Kings 24:18` | {term}`2 Chronicles 36:11` | {term}`Jeremiah 52:1`|
+| **66** | {term}`2 Kings 25:1` | | |
+| **67** | {term}`2 Kings 25:2` | | |
+| **68** | {term}`2 Kings 25:27` | | |
 
  
 
