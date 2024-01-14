@@ -727,365 +727,487 @@ REGNORUM IV 12
 [27] Καὶ ἐγενήθη ἐν τῷ τριακοστῷ καὶ ἑβδόμῳ ἔτει τῆς ἀποικεσίας τοῦ Ιωακιμ βασιλέως Ιουδα ἐν τῷ δωδεκάτῳ μηνὶ ἑβδόμῃ καὶ εἰκάδι τοῦ μηνὸς ὕψωσεν Ευιλμαρωδαχ βασιλεὺς Βαβυλῶνος ἐν τῷ ἐνιαυτῷ τῆς βασιλείας αὐτοῦ τὴν κεφαλὴν Ιωακιμ βασιλέως Ιουδα καὶ ἐξήγαγεν αὐτὸν ἐξ οἴκου φυλακῆς αὐτοῦ
 
 
-2 Chronicles 12:2
+[2 Chronicles 12:2](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.12)
 : **King James Version**\
+[2] And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/12-2.htm)\
+[2] וַיְהִ֞י בַּשָּׁנָ֤ה הַֽחֲמִישִׁית֙ לַמֶּ֣לֶךְ רְחַבְעָ֔ם עָלָ֛ה שִׁישַׁ֥ק מֶֽלֶךְ־מִצְרַ֖יִם עַל־יְרוּשָׁלִָ֑ם כִּ֥י מָעֲל֖וּ בַּיהוָֽה׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2012)\
+[2] καὶ ἐγένετο ἐν τῷ πέμπτῳ ἔτει τῆς βασιλείας Ροβοαμ ἀνέβη Σουσακιμ βασιλεὺς Αἰγύπτου ἐπὶ Ιερουσαλημ, ὅτι ἥμαρτον ἐναντίον κυρίου,
 
 
 
-2 Chronicles 12:13
+[2 Chronicles 12:13](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.12)
 : **King James Version**\
+[13] So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/12-13.htm)\
+[13] וַיִּתְחַזֵּ֞ק הַמֶּ֧לֶךְ רְחַבְעָ֛ם בִּירוּשָׁלִַ֖ם וַיִּמְלֹ֑ךְ כִּ֣י בֶן־אַרְבָּעִ֣ים וְאַחַ֣ת שָׁנָה֩ רְחַבְעָ֨ם בְּמָלְכ֜וֹ וּֽשֲׁבַ֨ע עֶשְׂרֵ֥ה שָׁנָ֣ה ׀ מָלַ֣ךְ בִּֽירוּשָׁלִַ֗ם הָ֠עִיר אֲשֶׁר־בָּחַ֨ר יְהוָ֜ה לָשׂ֨וּם אֶת־שְׁמ֥וֹ שָׁם֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָֽעַמֹּנִֽית׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2013)\
+[13] Καὶ κατίσχυσεν Ροβοαμ ἐν Ιερουσαλημ καὶ ἐβασίλευσεν· καὶ τεσσαράκοντα καὶ ἑνὸς ἐτῶν Ροβοαμ ἐν τῷ βασιλεῦσαι αὐτὸν καὶ ἑπτακαίδεκα ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ ἐν τῇ πόλει, ᾗ ἐξελέξατο κύριος ἐπονομάσαι τὸ ὄνομα αὐτοῦ ἐκεῖ ἐκ πασῶν φυλῶν υἱῶν Ισραηλ· καὶ ὄνομα τῆς μητρὸς αὐτοῦ Νοομμα ἡ Αμμανῖτις.
 
 
-2 Chronicles 13:1-2
+[2 Chronicles 13:1-2](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.13)
 : **King James Version**\
+[1] Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.\
+[2] He reigned three years in Jerusalem. His mother's name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/13-1.htm)\
+[1] בִּשְׁנַ֛ת שְׁמוֹנֶ֥ה עֶשְׂרֵ֖ה לַמֶּ֣לֶךְ יָרָבְעָ֑ם וַיִּמְלֹ֥ךְ אֲבִיָּ֖ה עַל־יְהוּדָֽה׃\
+[2] שָׁל֣וֹשׁ שָׁנִ֗ים מָלַךְ֙ בִּיר֣וּשָׁלִַ֔ם וְשֵׁ֣ם אִמּ֔וֹ מִיכָיָ֥הוּ בַת־אוּרִיאֵ֖ל מִן־גִּבְעָ֑ה וּמִלְחָמָ֥ה הָיְתָ֛ה בֵּ֥ין אֲבִיָּ֖ה וּבֵ֥ין יָרָבְעָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2013)\
+[1] Ἐν τῷ ὀκτωκαιδεκάτῳ ἔτει τῆς βασιλείας Ιεροβοαμ ἐβασίλευσεν Αβια ἐπὶ Ιουδαν·\
+[2] ἔτη τρία ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Μααχα θυγάτηρ Ουριηλ ἀπὸ Γαβαων. καὶ πόλεμος ἦν ἀνὰ μέσον Αβια καὶ ἀνὰ μέσον Ιεροβοαμ.
 
 
-2 Chronicles 15:10
+[2 Chronicles 15:10](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.15)
 : **King James Version**\
+[10] So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/15-10.htm)\
+[10] וַיִּקָּבְצ֥וּ יְרוּשָׁלִַ֖ם בַּחֹ֣דֶשׁ הַשְּׁלִישִׁ֑י לִשְׁנַ֥ת חֲמֵשׁ־עֶשְׂרֵ֖ה לְמַלְכ֥וּת אָסָֽא׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2015)\
+[10] καὶ συνήχθησαν εἰς Ιερουσαλημ ἐν τῷ μηνὶ τῷ τρίτῳ ἐν τῷ πεντεκαιδεκάτῳ ἔτει τῆς βασιλείας Ασα.
 
 
-2 Chronicles 15:19
+[2 Chronicles 15:19](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.15)
 : **King James Version**\
+[19] And there was no more war unto the five and thirtieth year of the reign of Asa.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/15-19.htm)\
+[19] וּמִלְחָמָ֖ה לֹ֣א הָיָ֑תָה עַ֛ד שְׁנַת־שְׁלֹשִׁ֥ים וְחָמֵ֖שׁ לְמַלְכ֥וּת אָסָֽא׃ ס
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2015)\
+[19] Καὶ πόλεμος οὐκ ἦν μετ᾽ αὐτοῦ ἕως τοῦ πέμπτου καὶ τριακοστοῦ ἔτους τῆς βασιλείας Ασα.
 
 
-2 Chronicles 16:1
+[2 Chronicles 16:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.16)
 : **King James Version**\
+[1] In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/16-1.htm)\
+[1] בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָשֵׁשׁ֙ לְמַלְכ֣וּת אָסָ֔א עָלָ֞ה בַּעְשָׁ֤א מֶֽלֶךְ־יִשְׂרָאֵל֙ עַל־יְהוּדָ֔ה וַיִּ֖בֶן אֶת־הָרָמָ֑ה לְבִלְתִּ֗י תֵּ֚ת יוֹצֵ֣א וָבָ֔א לְאָסָ֖א מֶ֥לֶךְ יְהוּדָֽה׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2016)\
+[1] καὶ ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει τῆς βασιλείας Ασα ἀνέβη Βαασα βασιλεὺς Ισραηλ ἐπὶ Ιουδαν καὶ ᾠκοδόμησεν τὴν Ραμα τοῦ μὴ δοῦναι ἔξοδον καὶ εἴσοδον τῷ Ασα βασιλεῖ Ιουδα.
 
 
-2 Chronicles 16:12
+[2 Chronicles 16:12](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.16)
 : **King James Version**\
+[12] And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/16-12.htm)\
+[12] וַיֶּחֱלֶ֣א אָסָ֡א בִּשְׁנַת֩ שְׁלוֹשִׁ֨ים וָתֵ֤שַׁע לְמַלְכוּתוֹ֙ בְּרַגְלָ֔יו עַד־לְמַ֖עְלָה חָלְי֑וֹ וְגַם־בְּחָלְיוֹ֙ לֹא־דָרַ֣שׁ אֶת־יְהוָ֔ה כִּ֖י בָּרֹפְאִֽים׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2016)\
+[12] καὶ ἐμαλακίσθη Ασα ἐν τῷ ἐνάτῳ καὶ τριακοστῷ ἔτει τῆς βασιλείας αὐτοῦ τοὺς πόδας, ἕως σφόδρα ἐμαλακίσθη· καὶ ἐν τῇ μαλακίᾳ αὐτοῦ οὐκ ἐζήτησεν κύριον, ἀλλὰ τοὺς ἰατρούς.
 
 
-2 Chronicles 16:13
+[2 Chronicles 16:13](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.16)
 : **King James Version**\
+[13] And Asa slept with his fathers, and died in the one and fortieth year of his reign.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/16-13.htm)\
+[13] וַיִּשְׁכַּ֥ב אָסָ֖א עִם־אֲבֹתָ֑יו וַיָּ֕מָת בִּשְׁנַ֛ת אַרְבָּעִ֥ים וְאַחַ֖ת לְמָלְכֽוֹ׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2016)\
+[13] καὶ ἐκοιμήθη Ασα μετὰ τῶν πατέρων αὐτοῦ καὶ ἐτελεύτησεν ἐν τῷ ἐνάτῳ καὶ τριακοστῷ ἔτει τῆς βασιλείας αὐτοῦ,
 
 
-2 Chronicles 20:31
+[2 Chronicles 20:31](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.20)
 : **King James Version**\
+[31] And Jehoshaphat reigned over Judah: he was thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother's name was Azubah the daughter of Shilhi.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/20-31.htm)\
+[31] וַיִּמְלֹ֥ךְ יְהוֹשָׁפָ֖ט עַל־יְהוּדָ֑ה בֶּן־שְׁלֹשִׁים֩ וְחָמֵ֨שׁ שָׁנָ֜ה בְּמָלְכ֗וֹ וְעֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ מָלַ֣ךְ בִּֽירוּשָׁלִַ֔ם וְשֵׁ֣ם אִמּ֔וֹ עֲזוּבָ֖ה בַּת־שִׁלְחִֽי׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2020)\
+[31] Καὶ ἐβασίλευσεν Ιωσαφατ ἐπὶ τὸν Ιουδαν ἐτῶν τριάκοντα πέντε ἐν τῷ βασιλεῦσαι αὐτὸν καὶ εἴκοσι πέντε ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Αζουβα θυγάτηρ Σαλι.
 
 
-2 Chronicles 17:7
+[2 Chronicles 17:7](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.17)
 : **King James Version**\
+[7] Also in the third year of his reign he sent to his princes, even to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/17-7.htm)\
+[7] וּבִשְׁנַ֨ת שָׁל֜וֹשׁ לְמָלְכ֗וֹ שָׁלַ֤ח לְשָׂרָיו֙ לְבֶן־חַ֨יִל֙ וּלְעֹבַדְיָ֣ה וְלִזְכַרְיָ֔ה וְלִנְתַנְאֵ֖ל וּלְמִיכָיָ֑הוּ לְלַמֵּ֖ד בְּעָרֵ֥י יְהוּדָֽה׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2017)\
+[7] καὶ ἐν τῷ τρίτῳ ἔτει τῆς βασιλείας αὐτοῦ ἀπέστειλεν τοὺς ἡγουμένους αὐτοῦ καὶ τοὺς υἱοὺς τῶν δυνατῶν, τὸν Αβδιαν καὶ Ζαχαριαν καὶ Ναθαναηλ καὶ Μιχαιαν, διδάσκειν ἐν πόλεσιν Ιουδα,
 
 
-2 Chronicles 21:5
+[2 Chronicles 21:5](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.21)
 : **King James Version**\
+[5] Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/21-5.htm)\
+[5] בֶּן־שְׁלֹשִׁ֥ים וּשְׁתַּ֛יִם שָׁנָ֖ה יְהוֹרָ֣ם בְּמָלְכ֑וֹ וּשְׁמוֹנֶ֣ה שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2021)\
+[5] ὄντος αὐτοῦ τριάκοντα καὶ δύο ἐτῶν κατέστη Ιωραμ ἐπὶ τὴν βασιλείαν αὐτοῦ καὶ ὀκτὼ ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ.
 
 
-2 Chronicles 21:20
+[2 Chronicles 21:20](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.21)
 : **King James Version**\
+[20] Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/21-20.htm)\
+[20] בֶּן־שְׁלֹשִׁ֤ים וּשְׁתַּ֨יִם֙ הָיָ֣ה בְמָלְכ֔וֹ וּשְׁמוֹנֶ֣ה שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וַיֵּ֨לֶךְ֙ בְּלֹ֣א חֶמְדָּ֔ה וַֽיִּקְבְּרֻ֨הוּ֙ בְּעִ֣יר דָּוִ֔יד וְלֹ֖א בְּקִבְר֥וֹת הַמְּלָכִֽים׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2021)\
+[20] ἦν τριάκοντα καὶ δύο ἐτῶν, ὅτε ἐβασίλευσεν, καὶ ὀκτὼ ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ· καὶ ἐπορεύθη ἐν οὐκ ἐπαίνῳ καὶ ἐτάφη ἐν πόλει Δαυιδ καὶ οὐκ ἐν τάφοις τῶν βασιλέων.
 
 
-2 Chronicles 22:2
+[2 Chronicles 22:2](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.22)
 : **King James Version**\
+[2] Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother's name also was Athaliah the daughter of Omri.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/22-2.htm)\
+[2] בֶּן־אַרְבָּעִ֨ים וּשְׁתַּ֤יִם שָׁנָה֙ אֲחַזְיָ֣הוּ בְמָלְכ֔וֹ וְשָׁנָ֣ה אַחַ֔ת מָלַ֖ךְ בִּֽירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ עֲתַלְיָ֖הוּ בַּת־עָמְרִֽי׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2022)\
+[2] ὢν εἴκοσι ἐτῶν Οχοζιας ἐβασίλευσεν καὶ ἐνιαυτὸν ἕνα ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Γοθολια θυγάτηρ Αμβρι.
 
 
-2 Chronicles 22:12
+[2 Chronicles 22:12](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.22)
 : **King James Version**\
+[12] And he was with them hid in the house of God six years: and Athaliah reigned over the land.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/22-12.htm)\
+[12] וַיְהִ֤י אִתָּם֙ בְּבֵ֣ית הָֽאֱלֹהִ֔ים מִתְחַבֵּ֖א שֵׁ֣שׁ שָׁנִ֖ים וַעֲתַלְיָ֖ה מֹלֶ֥כֶת עַל־הָאָֽרֶץ׃ פ
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2022)\
+[12] καὶ ἦν μετ᾽ αὐτῆς ἐν οἴκῳ τοῦ θεοῦ κατακεκρυμμένος ἓξ ἔτη, καὶ Γοθολια ἐβασίλευσεν ἐπὶ τῆς γῆς.
 
 
-2 Chronicles 23:1
+[2 Chronicles 23:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.23)
 : **King James Version**\
+[1] And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/23-1.htm)\
+[1] וּבַשָּׁנָ֨ה הַשְּׁבִעִ֜ית הִתְחַזַּ֣ק יְהוֹיָדָ֗ע וַיִּקַּ֣ח אֶת־שָׂרֵ֣י הַמֵּא֡וֹת לַעֲזַרְיָ֣הוּ בֶן־יְרֹחָ֡ם וּלְיִשְׁמָעֵ֣אל בֶּן־יְ֠הוֹחָנָן וְלַֽעֲזַרְיָ֨הוּ בֶן־עוֹבֵ֜ד וְאֶת־מַעֲשֵׂיָ֧הוּ בֶן־עֲדָיָ֛הוּ וְאֶת־אֱלִישָׁפָ֥ט בֶּן־זִכְרִ֖י עִמּ֥וֹ בַבְּרִֽית׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2023)\
+[1] Καὶ ἐν τῷ ἔτει τῷ ἑβδόμῳ ἐκραταίωσεν Ιωδαε καὶ ἔλαβεν τοὺς ἑκατοντάρχους, τὸν Αζαριαν υἱὸν Ιωραμ καὶ τὸν Ισμαηλ υἱὸν Ιωαναν καὶ τὸν Αζαριαν υἱὸν Ωβηδ καὶ τὸν Μαασαιαν υἱὸν Αδαια καὶ τὸν Ελισαφαν υἱὸν Ζαχαρια, μετ᾽ αὐτοῦ εἰς οἶκον.
 
 
-2 Chronicles 24:1
+[2 Chronicles 24:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.24)
 : **King James Version**\
+[1] Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother's name also was Zibiah of Beer-sheba.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/24-1.htm)\
+[1] בֶּן־שֶׁ֤בַע שָׁנִים֙ יֹאָ֣שׁ בְּמָלְכ֔וֹ וְאַרְבָּעִ֣ים שָׁנָ֔ה מָלַ֖ךְ בִּֽירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ צִבְיָ֖ה מִבְּאֵ֥ר שָֽׁבַע׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2024)\
+[1] Ὢν ἑπτὰ ἐτῶν Ιωας ἐν τῷ βασιλεῦσαι αὐτὸν καὶ τεσσαράκοντα ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Σαβια ἐκ Βηρσαβεε.
 
 
-2 Chronicles 24:15
+[2 Chronicles 24:15](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.24)
 : **King James Version**\
+[15] But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/24-15.htm)\
+[15] וַיִּזְקַ֧ן יְהוֹיָדָ֛ע וַיִּשְׂבַּ֥ע יָמִ֖ים וַיָּמֹ֑ת בֶּן־מֵאָ֧ה וּשְׁלֹשִׁ֛ים שָׁנָ֖ה בְּמוֹתֽוֹ׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2024)\
+[15] Καὶ ἐγήρασεν Ιωδαε πλήρης ἡμερῶν καὶ ἐτελεύτησεν ὢν ἑκατὸν καὶ τριάκοντα ἐτῶν ἐν τῷ τελευτᾶν αὐτόν·
 
 
-2 Chronicles 25:1
+[2 Chronicles 25:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.25)
 : **King James Version**\
+[1] Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/25-1.htm)\
+[1] בֶּן־עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ מָלַ֣ךְ אֲמַצְיָ֔הוּ וְעֶשְׂרִ֣ים וָתֵ֨שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְהוֹעַדָּ֖ן מִירוּשָׁלָֽיִם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2025)\
+[1] Ὢν πέντε καὶ εἴκοσι ἐτῶν ἐβασίλευσεν Αμασιας καὶ εἴκοσι ἐννέα ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Ιωαδεν ἀπὸ Ιερουσαλημ.
 
 
-2 Chronicles 25:25
+[2 Chronicles 25:25](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.25)
 : **King James Version**\
+[25] And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/25-25.htm)\
+[25] וַיְחִ֨י אֲמַצְיָ֤הוּ בֶן־יוֹאָשׁ֙ מֶ֣לֶךְ יְהוּדָ֔ה אַחֲרֵ֣י מ֔וֹת יוֹאָ֥שׁ בֶּן־יְהוֹאָחָ֖ז מֶ֣לֶךְ יִשְׂרָאֵ֑ל חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2025)\
+[25] καὶ ἔζησεν Αμασιας ὁ τοῦ Ιωας βασιλεὺς Ιουδα μετὰ τὸ ἀποθανεῖν Ιωας τὸν τοῦ Ιωαχαζ βασιλέα Ισραηλ ἔτη δέκα πέντε.
 
 
-2 Chronicles 26:1
+[2 Chronicles 26:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.26)
 : **King James Version**\
+[1] Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/26-1.htm)\
+[1] וַיִּקְח֞וּ כָּל־עַ֤ם יְהוּדָה֙ אֶת־עֻזִּיָּ֔הוּ וְה֕וּא בֶּן־שֵׁ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה וַיַּמְלִ֣יכוּ אֹת֔וֹ תַּ֖חַת אָבִ֥יו אֲמַצְיָֽהוּ׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2026)\
+[1] Καὶ ἔλαβεν πᾶς ὁ λαὸς τῆς γῆς τὸν Οζιαν, καὶ αὐτὸς δέκα καὶ ἓξ ἐτῶν, καὶ ἐβασίλευσαν αὐτὸν ἀντὶ τοῦ πατρὸς αὐτοῦ Αμασιου.
 
 
-2 Chronicles 26:3
+[2 Chronicles 26:3](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.26)
 : **King James Version**\
+[3] Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/26-3.htm)\
+[3] בֶּן־שֵׁ֨שׁ עֶשְׂרֵ֤ה שָׁנָה֙ עֻזִּיָּ֣הוּ בְמָלְכ֔וֹ וַחֲמִשִּׁ֤ים וּשְׁתַּ֨יִם֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְכָילְיָ֖ה מִן־יְרוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2026)\
+[3] υἱὸς δέκα ἓξ ἐτῶν ἐβασίλευσεν Οζιας καὶ πεντήκοντα καὶ δύο ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Χαλια ἀπὸ Ιερουσαλημ.
 
 
-2 Chronicles 27:1
+[2 Chronicles 27:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.27)
 : **King James Version**\
+[1] Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother's name also was Jerushah, the daughter of Zadok.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/27-1.htm)\
+[1] בֶּן־עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ יוֹתָ֣ם בְּמָלְכ֔וֹ וְשֵׁשׁ־עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ בִּֽירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְרוּשָׁ֖ה בַּת־צָדֽוֹק׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2027)\
+[1] Υἱὸς εἴκοσι πέντε ἐτῶν Ιωαθαμ ἐν τῷ βασιλεῦσαι αὐτὸν καὶ δέκα ἓξ ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῆς μητρὸς αὐτοῦ Ιερουσα θυγάτηρ Σαδωκ.
 
 
-2 Chronicles 28:1
+[2 Chronicles 28:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.28)
 : **King James Version**\
+[1] Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/28-1.htm)\
+[1] בֶּן־עֶשְׂרִ֤ים שָׁנָה֙ אָחָ֣ז בְּמָלְכ֔וֹ וְשֵׁשׁ־עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְלֹא־עָשָׂ֧ה הַיָּשָׁ֛ר בְּעֵינֵ֥י יְהוָ֖ה כְּדָוִ֥יד אָבִֽיו׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2028)\
+[1] Υἱὸς εἴκοσι ἐτῶν Αχαζ ἐν τῷ βασιλεῦσαι αὐτὸν καὶ δέκα ἓξ ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ· καὶ οὐκ ἐποίησεν τὸ εὐθὲς ἐνώπιον κυρίου ὡς Δαυιδ ὁ πατὴρ αὐτοῦ.
 
 
-2 Chronicles 29:1
+[2 Chronicles 29:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.29)
 : **King James Version**\
+[1] Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother's name was Abijah, the daughter of Zechariah.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/29-1.htm)\
+[1] יְחִזְקִיָּ֣הוּ מָלַ֗ךְ בֶּן־עֶשְׂרִ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה וְעֶשְׂרִ֤ים וָתֵ֨שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ אֲבִיָּ֖ה בַּת־זְכַרְיָֽהוּ׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2029)\
+[1] Καὶ Εζεκιας ἐβασίλευσεν ὢν εἴκοσι καὶ πέντε ἐτῶν καὶ εἴκοσι καὶ ἐννέα ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Αββα θυγάτηρ Ζαχαρια.
 
 
-2 Chronicles 29:3
+[2 Chronicles 29:3](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.29)
 : **King James Version**\
+[3] He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/29-3.htm)\
+[3] ה֣וּא בַשָּׁנָה֩ הָרִאשׁוֹנָ֨ה לְמָלְכ֜וֹ בַּחֹ֣דֶשׁ הָרִאשֹׁ֗ון פָּתַ֛ח אֶת־דַּלְת֥וֹת בֵּית־יְהוָ֖ה וַֽיְחַזְּקֵֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2029)\
+[3] καὶ ἐγένετο ὡς ἔστη ἐπὶ τῆς βασιλείας αὐτοῦ, ἐν τῷ πρώτῳ μηνὶ ἀνέῳξεν τὰς θύρας οἴκου κυρίου καὶ ἐπεσκεύασεν αὐτάς.
 
 
-2 Chronicles 33:1
+[2 Chronicles 33:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.33)
 : **King James Version**\
+[1] Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/33-1.htm)\
+[1] בֶּן־שְׁתֵּ֥ים עֶשְׂרֵ֛ה שָׁנָ֖ה מְנַשֶּׁ֣ה בְמָלְכ֑וֹ וַחֲמִשִּׁ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2033)\
+[1] Ὢν δέκα δύο ἐτῶν Μανασσης ἐν τῷ βασιλεῦσαι αὐτὸν καὶ πεντήκοντα πέντε ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ.
 
 
-2 Chronicles 33:21
+[2 Chronicles 33:21](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.33)
 : **King James Version**\
+[21] Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/33-21.htm)\
+[21] בֶּן־עֶשְׂרִ֧ים וּשְׁתַּ֛יִם שָׁנָ֖ה אָמ֣וֹן בְּמָלְכ֑וֹ וּשְׁתַּ֣יִם שָׁנִ֔ים מָלַ֖ךְ בִּֽירוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2033)\
+[21] Ὢν εἴκοσι καὶ δύο ἐτῶν Αμων ἐν τῷ βασιλεύειν αὐτὸν καὶ δύο ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ.
 
 
-2 Chronicles 34:1
+[2 Chronicles 34:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.34)
 : **King James Version**\
+[1] Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/34-1.htm)\
+[1] בֶּן־שְׁמוֹנֶ֥ה שָׁנִ֖ים יֹאשִׁיָּ֣הוּ בְמָלְכ֑וֹ וּשְׁלֹשִׁ֤ים וְאַחַת֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2034)\
+[1] Ὢν ὀκτὼ ἐτῶν Ιωσιας ἐν τῷ βασιλεῦσαι αὐτὸν καὶ τριάκοντα ἓν ἔτος ἐβασίλευσεν ἐν Ιερουσαλημ.
 
 
-2 Chronicles 34:3
+[2 Chronicles 34:3](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.34)
 : **King James Version**\
+[3] For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/34-3.htm)\
+[3] וּבִשְׁמוֹנֶ֨ה שָׁנִ֜ים לְמָלְכ֗וֹ וְהוּא֙ עוֹדֶ֣נּוּ נַ֔עַר הֵחֵ֕ל לִדְר֕וֹשׁ לֵאלֹהֵ֖י דָּוִ֣יד אָבִ֑יו וּבִשְׁתֵּ֧ים עֶשְׂרֵ֣ה שָׁנָ֗ה הֵחֵל֙ לְטַהֵ֔ר אֶת־יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם מִן־הַבָּמוֹת֙ וְהָ֣אֲשֵׁרִ֔ים וְהַפְּסִלִ֖ים וְהַמַּסֵּכֽוֹת׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2034)\
+[3] καὶ ἐν τῷ ὀγδόῳ ἔτει τῆς βασιλείας αὐτοῦ — καὶ αὐτὸς ἔτι παιδάριον — ἤρξατο τοῦ ζητῆσαι κύριον τὸν θεὸν Δαυιδ τοῦ πατρὸς αὐτοῦ. καὶ ἐν τῷ δωδεκάτῳ ἔτει τῆς βασιλείας αὐτοῦ ἤρξατο τοῦ καθαρίσαι τὸν Ιουδαν καὶ τὴν Ιερουσαλημ ἀπὸ τῶν ὑψηλῶν καὶ τῶν ἄλσεων καὶ ἀπὸ τῶν χωνευτῶν
 
 
-2 Chronicles 34:8
+[2 Chronicles 34:8](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.34)
 : **King James Version**\
+[8] Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/34-8.htm)\
+[8] וּבִשְׁנַ֨ת שְׁמוֹנֶ֤ה עֶשְׂרֵה֙ לְמָלְכ֔וֹ לְטַהֵ֥ר הָאָ֖רֶץ וְהַבָּ֑יִת שָׁ֠לַח אֶת־שָׁפָ֨ן בֶּן־אֲצַלְיָ֜הוּ וְאֶת־מַעֲשֵׂיָ֣הוּ שַׂר־הָעִ֗יר וְ֠אֵת יוֹאָ֤ח בֶּן־יֽוֹאָחָז֙ הַמַּזְכִּ֔יר לְחַזֵּ֕ק אֶת־בֵּ֖ית יְהוָ֥ה אֱלֹהָֽיו׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2034)\
+[8] Καὶ ἐν τῷ ὀκτωκαιδεκάτῳ ἔτει τῆς βασιλείας αὐτοῦ τοῦ καθαρίσαι τὴν γῆν καὶ τὸν οἶκον ἀπέστειλεν τὸν Σαφαν υἱὸν Εσελια καὶ τὸν Μαασιαν ἄρχοντα τῆς πόλεως καὶ τὸν Ιουαχ υἱὸν Ιωαχαζ τὸν ὑπομνηματογράφον αὐτοῦ κραταιῶσαι τὸν οἶκον κυρίου τοῦ θεοῦ αὐτοῦ.
 
 
-2 Chronicles 35:19
+[2 Chronicles 35:19](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.35)
 : **King James Version**\
+[19] In the eighteenth year of the reign of Josiah was this passover kept.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/35-19.htm)\
+[19] בִּשְׁמוֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לְמַלְכ֖וּת יֹאשִׁיָּ֑הוּ נַעֲשָׂ֖ה הַפֶּ֥סַח הַזֶּֽה׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2035)\
+[19] τῷ ὀκτωκαιδεκάτῳ ἔτει τῆς βασιλείας Ιωσια.\
+[19a] καὶ τοὺς ἐγγαστριμύθους καὶ τοὺς γνώστας καὶ τὰ θαραφιν καὶ τὰ εἴδωλα καὶ τὰ καρασιμ, ἃ ἦν ἐν γῇ Ιουδα καὶ ἐν Ιερουσαλημ, ἐνεπύρισεν ὁ βασιλεὺς Ιωσιας, ἵνα στήσῃ τοὺς λόγους τοῦ νόμου τοὺς γεγραμμένους ἐπὶ τοῦ βιβλίου, οὗ εὗρεν Χελκιας ὁ ἱερεὺς ἐν τῷ οἴκῳ κυρίου.\
+[19b] ὅμοιος αὐτῷ οὐκ ἐγενήθη ἔμπροσθεν αὐτοῦ, ὃς ἐπέστρεψεν πρὸς κύριον ἐν ὅλῃ καρδίᾳ αὐτοῦ καὶ ἐν ὅλῃ ψυχῇ αὐτοῦ καὶ ἐν ὅλῃ ἰσχύι αὐτοῦ κατὰ πάντα τὸν νόμον Μωυσῆ, καὶ μετ᾽ αὐτὸν οὐκ ἀνέστη ὅμοιος αὐτῷ·\
+[19c] πλὴν οὐκ ἀπεστράφη κύριος ἀπὸ ὀργῆς θυμοῦ αὐτοῦ τοῦ μεγάλου, οὗ ὠργίσθη θυμῷ κύριος ἐν τῷ Ιουδα ἐπὶ πάντα τὰ παροργίσματα, ἃ παρώργισεν Μανασσης.\
+[19d] καὶ εἶπεν κύριος Καί γε τὸν Ιουδαν ἀποστήσω ἀπὸ προσώπου μου, καθὼς ἀπέστησα τὸν Ισραηλ, καὶ ἀπωσάμην τὴν πόλιν, ἣν ἐξελεξάμην, τὴν Ιερουσαλημ, καὶ τὸν οἶκον, ὃν εἶπα Ἔσται τὸ ὄνομά μου ἐκεῖ.
 
 
-2 Chronicles 36:2
+[2 Chronicles 36:2](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.36)
 : **King James Version**\
+[2] Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/36-2.htm)\
+[2] בֶּן־שָׁל֧וֹשׁ וְעֶשְׂרִ֛ים שָׁנָ֖ה יוֹאָחָ֣ז בְּמָלְכ֑וֹ וּשְׁלֹשָׁ֣ה חֳדָשִׁ֔ים מָלַ֖ךְ בִּירוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2036)\
+[2] υἱὸς εἴκοσι καὶ τριῶν ἐτῶν Ιωαχαζ ἐν τῷ βασιλεύειν αὐτὸν καὶ τρίμηνον ἐβασίλευσεν ἐν Ιερουσαλημ,\
+[2a] καὶ ὄνομα τῆς μητρὸς αὐτοῦ Αμιταλ θυγάτηρ Ιερεμιου ἐκ Λοβενα.\
+[2b] καὶ ἐποίησεν τὸ πονηρὸν ἐνώπιον κυρίου κατὰ πάντα, ἃ ἐποίησαν οἱ πατέρες αὐτοῦ.\
+[2c] καὶ ἔδησεν αὐτὸν Φαραω Νεχαω ἐν Δεβλαθα ἐν γῇ Εμαθ τοῦ μὴ βασιλεύειν αὐτὸν ἐν Ιερουσαλημ,
 
 
-2 Chronicles 36:5
+[2 Chronicles 36:5](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.36)
 : **King James Version**\
+[5] Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/36-5.htm)\
+[5] בֶּן־עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ יְהוֹיָקִ֣ים בְּמָלְכ֔וֹ וְאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וַיַּ֣עַשׂ הָרַ֔ע בְּעֵינֵ֖י יְהוָ֥ה אֱלֹהָֽיו׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2036)\
+[5] Ὢν εἴκοσι καὶ πέντε ἐτῶν Ιωακιμ ἐν τῷ βασιλεύειν αὐτὸν καὶ ἕνδεκα ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ, καὶ ὄνομα τῆς μητρὸς αὐτοῦ Ζεχωρα θυγάτηρ Νηριου ἐκ Ραμα. καὶ ἐποίησεν τὸ πονηρὸν ἐναντίον κυρίου κατὰ πάντα, ὅσα ἐποίησαν οἱ πατέρες αὐτοῦ.\
+[5a] ἐν ταῖς ἡμέραις αὐτοῦ ἦλθεν Ναβουχοδονοσορ βασιλεὺς Βαβυλῶνος εἰς τὴν γῆν, καὶ ἦν αὐτῷ δουλεύων τρία ἔτη καὶ ἀπέστη ἀπ᾽ αὐτοῦ.\
+[5b] καὶ ἀπέστειλεν κύριος ἐπ᾽ αὐτοὺς τοὺς Χαλδαίους καὶ λῃστήρια Σύρων καὶ λῃστήρια Μωαβιτῶν καὶ υἱῶν Αμμων καὶ τῆς Σαμαρείας, καὶ ἀπέστησαν μετὰ τὸν λόγον τοῦτον κατὰ τὸν λόγον κυρίου ἐν χειρὶ τῶν παίδων αὐτοῦ τῶν προφητῶν.\
+[5c] πλὴν θυμὸς κυρίου ἦν ἐπὶ Ιουδαν τοῦ ἀποστῆσαι αὐτὸν ἀπὸ προσώπου αὐτοῦ διὰ τὰς ἁμαρτίας Μανασση ἐν πᾶσιν, οἷς ἐποίησεν,\
 
 
-2 Chronicles 36:9
+
+[2 Chronicles 36:9](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.36)
 : **King James Version**\
+[9] Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/36-9.htm)\
+[19] וַֽיִּשְׂרְפוּ֙ אֶת־בֵּ֣ית הָאֱלֹהִ֔ים וַֽיְנַתְּצ֔וּ אֵ֖ת חוֹמַ֣ת יְרוּשָׁלִָ֑ם וְכָל־אַרְמְנוֹתֶ֨יהָ֙ שָׂרְפ֣וּ בָאֵ֔שׁ וְכָל־כְּלֵ֥י מַחֲמַדֶּ֖יהָ לְהַשְׁחִֽית׃ ס
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2036)\
+[9] Υἱὸς ὀκτωκαίδεκα ἐτῶν Ιεχονιας ἐν τῷ βασιλεύειν αὐτὸν καὶ τρίμηνον καὶ δέκα ἡμέρας ἐβασίλευσεν ἐν Ιερουσαλημ. καὶ ἐποίησεν τὸ πονηρὸν ἐνώπιον κυρίου.
 
 
-2 Chronicles 36:11
+[2 Chronicles 36:11](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/2CH.36)
 : **King James Version**\
+[11] Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/2_chronicles/36-11.htm)\
+[11] בֶּן־עֶשְׂרִ֧ים וְאַחַ֛ת שָׁנָ֖ה צִדְקִיָּ֣הוּ בְמָלְכ֑וֹ וְאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָֽם׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/2%20Chronicles%2036)\
+[11] Ἐτῶν εἴκοσι ἑνὸς Σεδεκιας ἐν τῷ βασιλεύειν αὐτὸν καὶ ἕνδεκα ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ.
 
 
-Jeremiah 52:1
+[Jeremiah 52:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/JER.51)
 : **King James Version**\
+[1] Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;
 \
 \
 [Masoretic Text](https://biblehub.com/interlinear/jeremiah/52-1.htm)\
+[1] כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי֙ מֵעִ֣יר עַל־בָּבֶ֔ל וְאֶל־יֹשְׁבֵ֖י לֵ֣ב קָמָ֑י ר֖וּחַ מַשְׁחִֽית׃
 \
 \
 [Septuagint](https://www.studybible.info/interlinear/Jeremiah%2052)\
+[1] Ὁ λόγος ὁ γενόμενος πρὸς Ιερεμιαν ἅπασιν τοῖς Ιουδαίοις τοῖς κατοικοῦσιν ἐν γῇ Αἰγύπτῳ καὶ τοῖς καθημένοις ἐν Μαγδώλῳ καὶ ἐν Ταφνας καὶ ἐν γῇ Παθουρης λέγων
 
 
 
