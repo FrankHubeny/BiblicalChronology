@@ -1,56 +1,63 @@
-# Glossary
-
-## Terms
-:::{glossary}
-
-accession
-: The first partial year does not count but the last partial year does.
-
-non-accession
-: The first partial year counts but not the last partial year.
-
-:::
-
-## Bible Verses
+# Glossary of Bible Verses
 
 ```{glossary}
 
-1 Kings 14:20
-: And the days which Jeroboam reigned were `two and twenty years`: and he slept with his fathers, and Nadab his son reigned in his stead.
-
-1 Kings 14:21
-: And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
+[1 Kings 14:20](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/1KI.14)
+: **King James Version**\
+[20] And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
 \
 \
-**Masoretic Text**
-וּרְחַבְעָם֙ בֶּן־שְׁלֹמֹ֔ה מָלַ֖ךְ בִּֽיהוּדָ֑ה בֶּן־אַרְבָּעִ֣ים וְאַחַ֣ת שָׁנָה֩ רְחַבְעָ֨ם בְּמָלְכ֜וֹ וּֽשֲׁבַ֨ע עֶשְׂרֵ֥ה שָׁנָ֣ה ׀ מָלַ֣ךְ בִּירוּשָׁלִַ֗ם הָ֠עִיר אֲשֶׁר־בָּחַ֨ר יְהוָ֜ה לָשׂ֨וּם אֶת־שְׁמ֥וֹ שָׁם֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָעַמֹּנִֽית׃
+[Masoretic Text](https://biblehub.com/interlinear/1_kings/14-20.htm)\
+[20] וְהַיָּמִים֙ אֲשֶׁ֣ר מָלַ֣ךְ יָרָבְעָ֔ם עֶשְׂרִ֥ים וּשְׁתַּ֖יִם שָׁנָ֑ה וַיִּשְׁכַּב֙ עִם־אֲבֹתָ֔יו וַיִּמְלֹ֛ךְ נָדָ֥ב בְּנ֖וֹ תַּחְתָּֽיו׃ פ
 \
 \
-**Septuagint**
-καὶ οἱ δοῦλοι οἱ ὄντες ἐχθὲς καὶ τρίτην ἡμέραν μετὰ τῶν ἀλλοφύλων οἱ ἀναβάντες εἰς τὴν παρεμβολὴν ἐπεστράφησαν καὶ αὐτοὶ εἶναι μετὰ ᾿Ισραὴλ τῶν μετὰ Σαοὺλ καὶ ᾿Ιωνάθαν.
-
-1 Kings 14:25
-: And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-14)\
+not present
 \
 \
-[Masoretic Text](https://www.tanach.us/Server.html?1%20Kings14:25-14:25&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
-: וַיְהִ֛י בַּשָּׁנָ֥ה הַחֲמִישִׁ֖ית לַמֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שושק שִׁישַׁ֥ק מֶֽלֶךְ־מִצְרַ֖יִם עַל־יְרוּשָׁלָֽ͏ִם׃\
-\
-[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-14)
-: καὶ ᾿Ιάαλ δρυμὸς ἦν μελισσῶνος κατὰ πρόσωπον τοῦ ἀγροῦ,
+{term}`McFall Number`: 1\
+Reign: 22
 
 
+[1 Kings 14:21](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/1KI.14)
+: **King James Version**\
+[21] And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
+\
+\
+[Masoretic Text](https://biblehub.com/interlinear/1_kings/14-21.htm)\
+[21] וּרְחַבְעָם֙ בֶּן־שְׁלֹמֹ֔ה מָלַ֖ךְ בִּֽיהוּדָ֑ה בֶּן־אַרְבָּעִ֣ים וְאַחַ֣ת שָׁנָה֩ רְחַבְעָ֨ם בְּמָלְכ֜וֹ וּֽשֲׁבַ֨ע עֶשְׂרֵ֥ה שָׁנָ֣ה ׀ מָלַ֣ךְ בִּירוּשָׁלִַ֗ם הָ֠עִיר אֲשֶׁר־בָּחַ֨ר יְהוָ֜ה לָשׂ֨וּם אֶת־שְׁמ֥וֹ שָׁם֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָעַמֹּנִֽית׃
+\
+\
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-14)\
+[21] Καὶ Ροβοαμ υἱὸς Σαλωμων ἐβασίλευσεν ἐπὶ Ιουδα· υἱὸς τεσσαράκοντα καὶ ἑνὸς ἐνιαυτῶν Ροβοαμ ἐν τῷ βασιλεύειν αὐτὸν καὶ δέκα ἑπτὰ ἔτη ἐβασίλευσεν ἐν Ιερουσαλημ τῇ πόλει, ἣν ἐξελέξατο κύριος θέσθαι τὸ ὄνομα αὐτοῦ ἐκεῖ ἐκ πασῶν φυλῶν τοῦ Ισραηλ· καὶ τὸ ὄνομα τῆς μητρὸς αὐτοῦ Νααμα ἡ Αμμανῖτις.
 
-1 Kings 15:1-2a
-: 1 Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah. 2 Three years reigned he in Jerusalem. and his mother's name was Maachah, the daughter of Abishalom.
+[1 Kings 14:25](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/1KI.14)
+: **King James Version**\
+[25] And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
 \
 \
-[Masoretic Text](https://www.tanach.us/Server.html?1%20Kings15:1-15:2&layout=Full&view=0&content=Accents&font=24&fontfamily=Taamey%20D%20Web&Englishfontsize=18&dh=Off&Brief=0)
-וּבִשְׁנַת֙ שְׁמֹנֶ֣ה עֶשְׂרֵ֔ה לַמֶּ֖לֶךְ יָרָבְעָ֣ם בֶּן־נְבָ֑ט מָלַ֥ךְ אֲבִיָּ֖ם עַל־יְהוּדָֽה׃ 2שָׁלֹ֣שׁ שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלָ֑͏ִם וְשֵׁ֣ם אִמּ֔וֹ מַעֲכָ֖ה בַּת־אֲבִישָׁלֽוֹם׃
+[Masoretic Text](https://biblehub.com/interlinear/1_kings/14-25.htm)\
+[25] וַיְהִ֛י בַּשָּׁנָ֥ה הַחֲמִישִׁ֖ית לַמֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שִׁושַׁ֥ק מֶֽלֶךְ־מִצְרַ֖יִם עַל־יְרוּשָׁלִָֽם׃
 \
 \
-[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-15)
-ΚΑΙ εἶπε Σαμουὴλ πρὸς Σαούλ· ἐμὲ ἀπέστειλε Κύριος χρῖσαί σε εἰς βασιλέα ἐπὶ ᾿Ισραήλ, καὶ νῦν ἄκουε τῆς φωνῆς Κυρίου· 2 τάδε εἶπε Κύριος Σαβαώθ· νῦν ἐκδικήσω ἃ ἐποίησεν ᾿Αμαλὴκ τῷ ᾿Ισραήλ, ὡς ἀπήντησεν αὐτῷ ἐν τῇ ὁδῷ ἀναβαίνοντος αὐτοῦ ἐξ Αἰγύπτου·
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-14)\
+[25] καὶ ἐγένετο ἐν τῷ ἐνιαυτῷ τῷ πέμπτῳ βασιλεύοντος Ροβοαμ ἀνέβη Σουσακιμ βασιλεὺς Αἰγύπτου ἐπὶ Ιερουσαλημ
+
+
+[1 Kings 15:1-2a](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/1KI.15)
+: **King James Version**\
+[1] Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah. \
+[2] Three years reigned he in Jerusalem. and his mother's name was Maachah, the daughter of Abishalom.
+\
+\
+[Masoretic Text](https://biblehub.com/interlinear/1_kings/15-1.htm)\
+[1] וּבִשְׁנַת֙ שְׁמֹנֶ֣ה עֶשְׂרֵ֔ה לַמֶּ֖לֶךְ יָרָבְעָ֣ם בֶּן־נְבָ֑ט מָלַ֥ךְ אֲבִיָּ֖ם עַל־יְהוּדָֽה׃\
+[2] שָׁלֹ֣שׁ שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ מַעֲכָ֖ה בַּת־אֲבִישָׁלֽוֹם׃
+\
+\
+[Septuagint](https://www.septuagint.bible/-/basileion-a-kephalaio-15)\
+[1] Καὶ ἐν τῷ ὀκτωκαιδεκάτῳ ἔτει βασιλεύοντος Ιεροβοαμ υἱοῦ Ναβατ βασιλεύει Αβιου υἱὸς Ροβοαμ ἐπὶ Ιουδα\
+[2] καὶ ἓξ ἔτη ἐβασίλευσεν, καὶ ὄνομα τῆς μητρὸς αὐτοῦ Μααχα θυγάτηρ Αβεσσαλωμ.
 
 [1 Kings 15:9-10](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/1KI.15)
 : **King James Version**\
@@ -96,7 +103,7 @@ non-accession
 [33] In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.
 \
 \
-[Masoretic Text]https://biblehub.com/interlinear/1_kings/15-33.htm\
+[Masoretic Text](https://biblehub.com/interlinear/1_kings/15-33.htm)\
 [33] בִּשְׁנַ֣ת שָׁלֹ֔שׁ לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ בַּעְשָׁ֨א בֶן־אֲחִיָּ֤ה עַל־כָּל־יִשְׂרָאֵל֙ בְּתִרְצָ֔ה עֶשְׂרִ֥ים וְאַרְבַּ֖ע שָׁנָֽה׃
 \
 \
@@ -1209,6 +1216,16 @@ REGNORUM IV 12
 [Septuagint](https://www.studybible.info/interlinear/Jeremiah%2052)\
 [1] Ὁ λόγος ὁ γενόμενος πρὸς Ιερεμιαν ἅπασιν τοῖς Ιουδαίοις τοῖς κατοικοῦσιν ἐν γῇ Αἰγύπτῳ καὶ τοῖς καθημένοις ἐν Μαγδώλῳ καὶ ἐν Ταφνας καὶ ἐν γῇ Παθουρης λέγων
 
-
+[Ezekiel 40:1](https://diebibel.ibep-prod.com/en/bible/BHS,LXX,KJV/EZK.40)
+: **King James Version**\
+[1] In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.
+\
+\
+[Masoretic Text](https://biblehub.com/interlinear/ezekiel/40-1.htm)\
+[1] בְּעֶשְׂרִ֣ים וְחָמֵ֣שׁ שָׁנָ֣ה לְ֠גָלוּתֵנוּ בְּרֹ֨אשׁ הַשָּׁנָ֜ה בֶּעָשֹׂ֣ור לַחֹ֗דֶשׁ בְּאַרְבַּ֤ע עֶשְׂרֵה֙ שָׁנָ֔ה אַחַ֕ר אֲשֶׁ֥ר הֻכְּתָ֖ה הָעִ֑יר בְּעֶ֣צֶם ׀ הַיּ֣וֹם הַזֶּ֗ה הָיְתָ֤ה עָלַי֙ יַד־יְהוָ֔ה וַיָּבֵ֥א אֹתִ֖י שָֽׁמָּה׃
+\
+\
+[Septuagint]()\
+[1] Καὶ ἐγένετο ἐν τῷ πέμπτῳ καὶ εἰκοστῷ ἔτει τῆς αἰχμαλωσίας ἡμῶν ἐν τῷ πρώτῳ μηνὶ δεκάτῃ τοῦ μηνὸς ἐν τῷ τεσσαρεσκαιδεκάτῳ ἔτει μετὰ τὸ ἁλῶναι τὴν πόλιν, ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐγένετο ἐπ᾽ ἐμὲ χεὶρ κυρίου καὶ ἤγαγέν με
 
 ```

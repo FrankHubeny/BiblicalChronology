@@ -31,7 +31,7 @@ chronology within the Bible absolute dates.  McFall reports that Thiele worked w
 5. **597 BC (March 15/16)**: Nebuchadnezzar captured Jerusalem synchronizes with 
 6. **586 BC (July 18)**: Jerusalem fell to Nebuchadnezzar synchronizes with .
 
-McFall provides numbers for the 68 events in Kings.  To these there are 40 events from Chronicles that synchronize with these events.
+McFall provides numbers for the 68 events in Kings and Chronicles.  To these there are 40 events from Chronicles that synchronize with these events.
 I will use his numbering putting an `M` before the numeral. 
 
 1.  {term}`1 Kings 14:20` 
@@ -44,76 +44,76 @@ I will use his numbering putting an `M` before the numeral.
 
 
 
-| McFall #|Kings|Chronicles|ANE|
+| McFall #|Kings|Chronicles|Other|
 |:--------|:----|:---------|:--|
-| **1** | {term}`1 Kings 14:20` | | |
-| **2** | {term}`1 Kings 14:21` | {term}`2 Chronicles 12:13` | |
-| **3** | {term}`1 Kings 14:25` | {term}`2 Chronicles 12:2` |  |
-| **4** | {term}`1 Kings 15:1-2a` | {term}`2 Chronicles 13:1-2` | |
-| **5** | {term}`1 Kings 15:9-10` | {term}`2 Chronicles 16:13` | |
-| **6** | {term}`1 Kings 15:25` | | |
-| **7** | {term}`1 Kings 15:28` | | |
-| **8** | {term}`1 Kings 15:33` | | |
-| **9** | |{term}`2 Chronicles 15:10`  | |
-| **10** |  | {term}`2 Chronicles 15:19`  | |
-| **11** | | {term}`2 Chronicles 16:1`| |
-| **12** | {term}`1 Kings 16:8` | | |
-| **13** | {term}`1 Kings 16:10` | | |
-| **14** | {term}`1 Kings 16:15` | | |
-| **15** | {term}`1 Kings 16:23` | | |
-| **16** | {term}`1 Kings 16:29` | | |
-| **17** | | {term}`2 Chronicles 16:12` | |
-| **18** | | {term}`2 Chronicles 16:13` | |
-| **19** | {term}`1 Kings 22:41` | {term}`2 Chronicles 20:31` | |
-| **20** | | {term}`2 Chronicles 17:7` | |
-| **21** | {term}`1 Kings 22:51` | | |
-| **22** | {term}`2 Kings 1:17` | | |
-| **23** | {term}`2 Kings 3:1` | | |
-| **24** | {term}`2 Kings 8:16-17` | {term}`2 Chronicles 21:5` | |
-| **25** | {term}`2 Kings 8:25-26` | {term}`2 Chronicles 22:2` | |
-| **26** | {term}`2 Kings 9:29` | | |
-| **27** | | {term}`2 Chronicles 22:2` | |
-| **28** | {term}`2 Kings 10:36` | | |
-| **29** | {term}`2 Kings 11:3` | {term}`2 Chronicles 22:12` | |
-| **30** | {term}`2 Kings 11:4` | {term}`2 Chronicles 23:1` | |
-| **31** | {term}`2 Kings 11:21-12:1` | {term}`2 Chronicles 24:1` | |
-| **32** | {term}`2 Kings 12:6` | | |
-| **33** | {term}`2 Kings 13:1` | | |
-| **34** | | {term}`2 Chronicles 24:15` | |
-| **35** | {term}`2 Kings 13:10` | | |
-| **36** | {term}`2 Kings 14:1-2` | {term}`2 Chronicles 25:1` | |
-| **37** | {term}`2 Kings 14:17` | {term}`2 Chronicles 25:25` | |
-| **38** | {term}`2 Kings 14:21` | {term}`2 Chronicles 26:1` | |
-| **39** | {term}`2 Kings 14:23` | | |
-| **40** | {term}`2 Kings 15:1-2` | {term}`2 Chronicles 26:3` | |
-| **41** | {term}`2 Kings 15:8` | | |
-| **42** | {term}`2 Kings 15:13` | | |
-| **43** | {term}`2 Kings 15:17` | | |
-| **44** | {term}`2 Kings 15:23` | | |
-| **45** | {term}`2 Kings 15:27` | | |
-| **46** | {term}`2 Kings 15:30` | | |
-| **47** | {term}`2 Kings 15:32-33` | {term}`2 Chronicles 27:1` | |
-| **48** | {term}`2 Kings 16:1-2` | {term}`2 Chronicles 28:1` | |
-| **49** | {term}`2 Kings 17:1` | | |
-| **50** | {term}`2 Kings 17:6` | | |
-| **51** | {term}`2 Kings 18:1-2` | {term}`2 Chronicles 29:1` | |
-| **52** | {term}`2 Kings 18:9-10a` | | |
-| **53** | {term}`2 Kings 18:10b` | | |
-| **54** | | {term}`2 Chronicles 29:3` | |
-| **55** | {term}`2 Kings 18:13` | | |
-| **56** | {term}`2 Kings 21:1` | {term}`2 Chronicles 33:1` | |
-| **57** | {term}`2 Kings 21:19` | {term}`2 Chronicles 33:21` | |
-| **58** | {term}`2 Kings 22:1` | {term}`2 Chronicles 34:1` | |
-| **59** | | {term}`2 Chronicles 34:3` | |
-| **60** | {term}`2 Kings 22:3` | {term}`2 Chronicles 34:8` | |
-| **61** | {term}`2 Kings 23:31` | {term}`2 Chronicles 36:2` | |
-| **62** | {term}`2 Kings 23:36` | {term}`2 Chronicles 36:5` | |
-| **63** | | {term}`2 Chronicles 36:9` | |
-| **64** | {term}`2 Kings 24:8` | | |
-| **65** | {term}`2 Kings 24:18` | {term}`2 Chronicles 36:11` | {term}`Jeremiah 52:1`|
-| **66** | {term}`2 Kings 25:1` | | |
-| **67** | {term}`2 Kings 25:2` | | |
-| **68** | {term}`2 Kings 25:27` | | |
+| {term}`1` | {term}`1 Kings 14:20` | | |
+| {term}`2` | {term}`1 Kings 14:21` | {term}`2 Chronicles 12:13` | |
+| {term}`3` | {term}`1 Kings 14:25` | {term}`2 Chronicles 12:2` |  |
+| {term}`4` | {term}`1 Kings 15:1-2a` | {term}`2 Chronicles 13:1-2` | |
+| {term}`5` | {term}`1 Kings 15:9-10` | {term}`2 Chronicles 16:13` | |
+| {term}`6` | {term}`1 Kings 15:25` | | |
+| {term}`7` | {term}`1 Kings 15:28` | | |
+| {term}`8` | {term}`1 Kings 15:33` | | |
+| {term}`9` | |{term}`2 Chronicles 15:10`  | |
+| {term}`10` |  | {term}`2 Chronicles 15:19`  | |
+| {term}`11` | | {term}`2 Chronicles 16:1`| |
+| {term}`12` | {term}`1 Kings 16:8` | | |
+| {term}`13` | {term}`1 Kings 16:10` | | |
+| {term}`14` | {term}`1 Kings 16:15` | | |
+| {term}`15` | {term}`1 Kings 16:23` | | |
+| {term}`16` | {term}`1 Kings 16:29` | | |
+| {term}`17` | | {term}`2 Chronicles 16:12` | |
+| {term}`18` | | {term}`2 Chronicles 16:13` | |
+| {term}`19` | {term}`1 Kings 22:41` | {term}`2 Chronicles 20:31` | |
+| {term}`20` | | {term}`2 Chronicles 17:7` | |
+| {term}`21` | {term}`1 Kings 22:51` | | |
+| {term}`22` | {term}`2 Kings 1:17` | | |
+| {term}`23` | {term}`2 Kings 3:1` | | |
+| {term}`24` | {term}`2 Kings 8:16-17` | {term}`2 Chronicles 21:5` | |
+| {term}`25` | {term}`2 Kings 8:25-26` | {term}`2 Chronicles 22:2` | |
+| {term}`26` | {term}`2 Kings 9:29` | | |
+| {term}`27` | | {term}`2 Chronicles 22:2` | |
+| {term}`28` | {term}`2 Kings 10:36` | | |
+| {term}`29` | {term}`2 Kings 11:3` | {term}`2 Chronicles 22:12` | |
+| {term}`30` | {term}`2 Kings 11:4` | {term}`2 Chronicles 23:1` | |
+| {term}`31` | {term}`2 Kings 11:21-12:1` | {term}`2 Chronicles 24:1` | |
+| {term}`32` | {term}`2 Kings 12:6` | | |
+| {term}`33` | {term}`2 Kings 13:1` | | |
+| {term}`34` | | {term}`2 Chronicles 24:15` | |
+| {term}`35` | {term}`2 Kings 13:10` | | |
+| {term}`36` | {term}`2 Kings 14:1-2` | {term}`2 Chronicles 25:1` | |
+| {term}`37` | {term}`2 Kings 14:17` | {term}`2 Chronicles 25:25` | |
+| {term}`38` | {term}`2 Kings 14:21` | {term}`2 Chronicles 26:1` | |
+| {term}`39` | {term}`2 Kings 14:23` | | |
+| {term}`40` | {term}`2 Kings 15:1-2` | {term}`2 Chronicles 26:3` | |
+| {term}`41` | {term}`2 Kings 15:8` | | |
+| {term}`42` | {term}`2 Kings 15:13` | | |
+| {term}`43` | {term}`2 Kings 15:17` | | |
+| {term}`44` | {term}`2 Kings 15:23` | | |
+| {term}`45` | {term}`2 Kings 15:27` | | |
+| {term}`46` | {term}`2 Kings 15:30` | | |
+| {term}`47` | {term}`2 Kings 15:32-33` | {term}`2 Chronicles 27:1` | |
+| {term}`48` | {term}`2 Kings 16:1-2` | {term}`2 Chronicles 28:1` | |
+| {term}`49` | {term}`2 Kings 17:1` | | |
+| {term}`50` | {term}`2 Kings 17:6` | | |
+| {term}`51` | {term}`2 Kings 18:1-2` | {term}`2 Chronicles 29:1` | |
+| {term}`52` | {term}`2 Kings 18:9-10a` | | |
+| {term}`53` | {term}`2 Kings 18:10b` | | |
+| {term}`54` | | {term}`2 Chronicles 29:3` | |
+| {term}`55` | {term}`2 Kings 18:13` | | |
+| {term}`56` | {term}`2 Kings 21:1` | {term}`2 Chronicles 33:1` | |
+| {term}`57` | {term}`2 Kings 21:19` | {term}`2 Chronicles 33:21` | |
+| {term}`58` | {term}`2 Kings 22:1` | {term}`2 Chronicles 34:1` | |
+| {term}`59` | | {term}`2 Chronicles 34:3` | |
+| {term}`60` | {term}`2 Kings 22:3` | {term}`2 Chronicles 34:8` | |
+| {term}`61` | {term}`2 Kings 23:31` | {term}`2 Chronicles 36:2` | |
+| {term}`62` | {term}`2 Kings 23:36` | {term}`2 Chronicles 36:5` | |
+| {term}`63` | | {term}`2 Chronicles 36:9` | |
+| {term}`64` | {term}`2 Kings 24:8` | | |
+| {term}`65` | {term}`2 Kings 24:18` | {term}`2 Chronicles 36:11` | {term}`Jeremiah 52:1`|
+| {term}`66` | {term}`2 Kings 25:1` | | |
+| {term}`67` | {term}`2 Kings 25:2` | | |
+| {term}`68` | {term}`2 Kings 25:27` | | |
 
  
 
